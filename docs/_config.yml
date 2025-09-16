@@ -27,11 +27,9 @@ url: "https://rachaelrenk.github.io" # the base hostname & protocol for your sit
 github_username:  rachaelrenk
 
 # Build settings
-theme: tactile
-remote_theme: pages-themes/tactile@v0.2.0
+theme: dinky
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
