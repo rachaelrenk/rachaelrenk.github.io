@@ -3,7 +3,7 @@ title: Enterprise Onboarding Guide
 date: 2025-10-10 10:00:00 -0500
 categories: [technical-writing,work-samples]
 tags: [onboarding,enterprise,saas,documentation,guide]
-author: '@rachaelrenk'
+author: 
 ---
 
 ## 🧭 Enterprise onboarding guide
