@@ -18,9 +18,6 @@ This work removed adoption blockers and enabled customers to self-serve onboardi
 
 To illustrate the scale of the project and provide a snapshot of the information architecture, the following screenshot shows the full structure of the onboarding guide. The categories, topics, and the way in which they're organized, are designed to guide users sequentially through their initial set up.
 
-<img src="/assets/lib/images/Enterprise-Onboarding.png" alt="Onboarding guide landing page and navigation" width="850%">
-
-
 🔗 **[View the live docs](https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding)**
 
 ## 🛠️ Tools and skills
