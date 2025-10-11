@@ -1,4 +1,7 @@
 ---
 layout: default
-permalink: /
 ---
+
+# Home
+
+lorem ipsum
