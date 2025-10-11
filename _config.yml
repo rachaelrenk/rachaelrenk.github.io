@@ -25,6 +25,11 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: https://rachaelrenk.github.io
 
+plugins:
+  - jekyll-paginate
+paginate: 5 # the number of posts per page
+paginate_path: "/page:num/" # the pagination path
+
 github:
   username: rachaelrenk # change to your GitHub username
 
