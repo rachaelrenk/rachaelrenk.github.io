@@ -4,17 +4,17 @@ title:  "Technical Proposal"
 date:   2025-10-14 14:27:46 -0600
 categories: proposal
 ---
-## State of Ohio Tax Modernization Proposal – Fast Enterprises
+## Ohio Tax Modernization Proposal – Fast Enterprises
 
 I led end-to-end development of FAST's response to the State of Ohio Department of Taxation's RFP for a new personal income tax system.
 
 #### Context
 
-This deliverable was a formal, highly technical proposal that demonstrated FAST's government expertise, compliance with complex state requirements, and ability to modernize large-scale public systems. The proposal was read by technical evaluators and non-technical decision makers, requiring clear, persuaive, and unified messaging.
+This deliverable was a formal, highly technical proposal that demonstrated FAST's expertise, compliance with complex state requirements, and ability to modernize large-scale public systems. The proposal was read by technical evaluators and non-technical decision makers, requiring clear, persuaive, and unified messaging.
 
 #### Role
 
-Proposal manager
+Proposal Manager
 
 #### Activities
 
@@ -34,7 +34,7 @@ Proposal manager
 
 ## Impact
 
-FAST was awarded the contract, with an initial value of over $50M, to modernize Ohio's personal income tax system. They annoucned the project in June 2022.
+FAST was awarded the contract, with an initial value of over $50M. They annoucned their project to modernize Ohio's personal income tax system in June 2022.
 
 ## Artifacts
 

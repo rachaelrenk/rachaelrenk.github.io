@@ -14,7 +14,7 @@ The onboarding guide is a structured documentation set composed of categories an
 
 #### Role
 
-Lead technical writer
+Technical Writer
 
 #### Activities
 

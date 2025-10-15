@@ -6,7 +6,7 @@ categories: SaaS documentation, release notes
 ---
 ## GHES Release Notes – GitHub
 
-I owned release notes for all GitHub Enterprise Server (GHES) major and patch version releases. I organized a rotation of technical writers to manage each cycle, while I personally led publication of release notes for the GHES 3.16 release.
+I owned release notes for all GitHub Enterprise Server (GHES) major and patch version releases as Directly Responsible Individual (DRI). I organized a rotation of technical writers to manage each cycle, while I personally led publication of release notes for the GHES 3.16 release.
 
 #### Context
 
@@ -14,7 +14,7 @@ Each GHES release involved close collaboration with PMs, TPMs, and engineers to 
 
 #### Role
 
-Technical Writer, Directly Responsible Individual
+Technical Writer, DRI
 
 #### Activities
 
