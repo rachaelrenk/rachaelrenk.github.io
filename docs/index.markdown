@@ -13,4 +13,4 @@ Over the last 10+ years, I’ve written accessible documentation for hardware, s
 
 I believe great documentation builds trust, saves time, and helps people do meaningful work.
 
-This portfolio contains writing samples from across technical communication genres, and highlights peer feedback from my recent role as Senior Technical Writer at GitHub. To see my work history or get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/rachaelrenk).
+This portfolio contains writing samples from across technical communication genres. To see my work history or get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/rachaelrenk).
