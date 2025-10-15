@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enterprise Onboarding Guide"
+title:  "Onboarding Guide"
 date:   2025-10-14 14:27:46 -0600
 categories: SaaS documentation
 ---
