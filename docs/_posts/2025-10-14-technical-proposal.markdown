@@ -12,31 +12,19 @@ I led end-to-end development of FAST's response to the State of Ohio Department 
 
 This deliverable was a formal, highly technical proposal that demonstrated FAST's expertise, compliance with complex state requirements, and ability to modernize large-scale public systems. The proposal was read by technical evaluators and non-technical decision makers, requiring clear, persuaive, and unified messaging.
 
-#### Role
+**Role:** Proposal Manager
 
-Proposal Manager
+**Date:** 2021
 
-#### Activities
+**Activities:**
 
 * Collaborated with technical and functional SMEs, project managers, designers, and legal counsel to interpret requirements and align responses
-* Managed timelines, assignments, and review cycles
+* Managed timelines, status calls, assignments, and review cycles
 * Crafted stategic messaging, balancing technical accuracy with persuasive storytelling
-* Edited and standardized content for clarity, tone, and responsiveness
+* Reviewed the bid holistically; edited for clarity, tone, and responsiveness
 * Delivered a compliant, compelling, and winning proposal
 
-## Tools and skills
-
-* Microsoft Office (Word, Excel, Project)
-* SharePoint
-* Adobe Acrobat
-* Compliance mapping
-* Strategic messaging
-
-## Impact
-
-FAST was awarded the contract, with an initial value of over $50M. They annoucned their project to modernize Ohio's personal income tax system in June 2022.
-
-## Artifacts
+### Artifacts
 
 🔗 **[View the proposal.](https://drive.google.com/file/d/1-PUeQy8t0RrDUg91sIYaUipwoZcR4ihl/view?usp=drive_link)**
 
@@ -53,3 +41,15 @@ Content creation for this proposal was a collabortive effort. Following is a lis
 * 22 Data Conversion Plan
 
 _**Note:**_ This proposal contains proprietary and confidential information. In the version provided here, proprietary information has been redacted.
+
+### Impact
+
+FAST was awarded the contract, with an initial value of over $50M. They announced the project to modernize Ohio's personal income tax system in June 2022.
+
+### Tools and skills
+
+* Microsoft Office (Word, Excel, Project)
+* SharePoint
+* Adobe Acrobat
+* Compliance mapping
+* Strategic messaging
