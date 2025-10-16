@@ -14,6 +14,6 @@ Dial-up internet followed a few years later, and with it, _extremely slow_ acces
 
 Yes, I was homeschooled. I've always been an autodidact - and a bit of an non-conformist.
 
-While math was sometimes a challenge, reading, writing, and comprehension came naturally. I was a book worm, and I loved to write. I finished several grade levels of spelling and grammar in a matter of months, just because I could (one of the benefits of homeschooling: ability to work at my own pace.) I realized early on that writing was a powerful way to convey information and shape thoughts. I learned so much from consuming the written word, and I had a feeling I could help others learn, too. 
+While math was sometimes a challenge, reading, writing, and comprehension came naturally. I was a book worm, and I loved to write. (One summer, I completed several grade levels of spelling and grammar just for fun. A benefit of homeschooling was that I could work at my own pace.) I realized early on that writing was a powerful way to convey information and share ideas. I myself had learned so much from consuming the written word.
 
-To me, it seemed clear that technology was the way to share that writing with the world.
+Teaching HTML to my peers was incredibly energizing. I wanted to help people understand and use technology, and I sensed I could do so through writing and tools like the internet. It would be a while longer before I connected my feelings with the field of technical communication, but I was well on my way.
