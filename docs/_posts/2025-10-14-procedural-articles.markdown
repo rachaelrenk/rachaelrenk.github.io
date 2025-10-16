@@ -6,7 +6,7 @@ categories: SaaS documentation
 ---
 ## Setting Up and Ending a Trial of GitHub Enterprise - Gitub
 
-I researched and authored two procedural articles to help administrators confidently set up a new trial and later convert or cancel it. Together, these articles support a key phase of the custoemr onboarding journey by providing clear, accurate guidance for account transitions.
+I researched and authored two procedural articles to help administrators confidently set up a new trial and later convert or cancel it. Together, these articles support key phases of the customer onboarding journey by providing clear and accurate guidance for account transitions.
 
 #### Context
 
