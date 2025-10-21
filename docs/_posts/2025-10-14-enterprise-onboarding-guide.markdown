@@ -2,7 +2,7 @@
 layout: post
 title:  "Onboarding Guide"
 date:   2025-10-14 14:27:46 -0600
-categories: SaaS documentation
+categories: SaaS documentation, information architecture
 ---
 ## Enterprise Onboarding Guide - GitHub
 
