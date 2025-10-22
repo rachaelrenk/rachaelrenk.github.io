@@ -27,7 +27,7 @@ Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • C
 
 I have been working in technical communication roles since 2013. 
 
-### **Content Analyst (Deloitte via A-Jour Net)**
+### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
 
 Content production analyst providing content management and publishing activities to ensure accurate, consistent, and high-quality information across the Deloitte Global Information & Knowledge Organization's assets.
@@ -61,7 +61,7 @@ Improving accuracy and consistency of published content.
 </details>
 </p>
 
-### **Senior Technical Writer (GitHub)**
+### **Senior Technical Writer** (GitHub)
 *Remote | 2022–2025*  
 
 Created and managed documentation across complex SaaS products for technical and non-technical audiences. Delivered scalable, user-centered content and drove process improvements in a docs-as-code environment. 
@@ -103,7 +103,7 @@ Git, GitHub, CI/CD workflows, Markdown, JSON, YAML, Liquid, AI-assisted tools
 - **[Procedural Topics: Setting Up and Ending a Trial](/samples/procedural-topics)** – Authored step-by-step guides addressing critical customer decision points during the enterprise trial phase.  
 - **[Conceptual Topics: Enterprise Security Models](/samples/conceptual-topics)** – Developed content explaining key identity and access models to help enterprise customers choose and configure their setup path.
 
-### **Proposal Manager (Fast Enterprises)**
+### **Proposal Manager** (Fast Enterprises)
 *Boise, ID | 2018–2022*  
 
 Led end-to-end proposal development for government technology procurements. Partnered with cross-functional teams to deliver compliant, compelling bids that secured hundreds of millions in awarded contracts.
@@ -143,12 +143,12 @@ Delivered dozens of high-impact proposals that fueled company growth and secured
 
 - **[State of Ohio Tax Modernization Proposal](/samples/technical-proposal)** – Managed full proposal lifecycle, aligning technical and business messaging for a successful bid awarded in 2022.
 
-### Technical Communication Instructor (Boise State University)
+### **Technical Communication Instructor** (Boise State University)
 *Boise, ID | 2019–2020*
 
 Designed and taught undergraduate technical communication courses as an adjunct instructor. Developed curriculum, learning materials, and assessments to teach foundational concepts in technical and business communication.
 
-### **Training Coordinator (Fast Enterprises)** 
+### **Training Coordinator** (Fast Enterprises)
 *Olympia, WA | 2017–2018*  
 
 Developed and delivered technical training programs supporting the State of Washington's Department of Licensing system modernization (the DRIVES project).
@@ -183,7 +183,7 @@ Strengthened client self-sufficiency by equipping state employees to train their
 </details>
 </p>
 
-### **Technical Writer (Aquent)**
+### **Technical Writer** (Aquent)
 *Boise, ID | 2014–2017*  
 
 Created and maintained technical documentation for HP’s commercial printers and multifunction devices. Worked cross-functionally with SMEs, graphic designers, and localization teams to deliver high-quality content for end users and service professionals.  
@@ -218,7 +218,7 @@ Delivered clear, accurate documentation with a focus on user needs and localizat
 </details>
 </p>
 
-### **Technical Writing Intern (Aquent)**
+### **Technical Writing Intern** (Aquent)
 *Boise, ID | 2013*
 
 Gained hands-on experience creating technical documentation for HP printers using structured-authoring prinicples, XML, and CMS platforms. Assisted senior technical writers with content development, editing, and publishing tasks. Also served as a hand-model for set up and installation videos.
