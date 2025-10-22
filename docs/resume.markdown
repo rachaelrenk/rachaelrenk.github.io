@@ -20,12 +20,12 @@ This is my experimental resume, which is very much under construction. For a tra
 Technical Writing & Editing • Content Design • Information Architecture • Content Strategy & Governance • Style Guide Development • Content Management • UX Writing • Accessibility & Plain Language • Cross-functional Collaboration • Process Improvement • Remote First & Asynchronous Work
 
 **Tools & Technologies:**  
-Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • CMS • CCMS • DITA • XML • YAML • HTML.CSS • Liquid • Markdown • Microsoft Office • Adobe Acrobat, Captivate • AI-assisted Writing Tools  
+Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • CMS • CCMS • DITA • XML • YAML • HTML/CSS • Liquid • Markdown • Microsoft Office • Adobe Acrobat, Captivate • AI-assisted Writing Tools  
 
 ---
 ## Experience
 
-I have been working in technical communication roles since 2013. 
+I have been working in technical communication roles since 2013. Following is a summary of those roles, along with my responsibilities, tools used, and the impact of my work.
 
 ### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
