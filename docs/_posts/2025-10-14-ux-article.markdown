@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "UX Article"
-date:   2025-10-14 14:27:46 -0600
+title:  "UX Writing Article"
+date:   2025-10-01 14:27:46 -0600
 categories: essays, UX writing, thought leadership
 ---
 ## Plain Language for UX Writing – UX Collective (Medium)

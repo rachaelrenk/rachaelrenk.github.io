@@ -1,12 +1,23 @@
 ---
 layout: post
 title:  "Onboarding Guide"
-date:   2025-10-14 14:27:46 -0600
+date:   2025-10-05 14:27:46 -0600
 categories: SaaS documentation, information architecture
 ---
 ## Enterprise Onboarding Guide - GitHub
 
 I led the creation and delivery of a comprehensive onboarding guide for GitHub Enterprise Cloud customers.
+
+### Artifacts
+
+🔗 **[View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding)**
+
+To illustrate the scale of the project and provide a snapshot of the information architecture, the following screenshot shows the full structure of the onboarding guide. The expanded left navigation menu shows categories and topics. The structure is designed to guide users sequentially through initial set up.
+
+<p><details><summary><b>Screenshot</b> (click to expand)</summary>
+<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/onboarding-guide_1.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide" /></p>
+<p><i>Screenshot captured September 2025.</i></p>
+</details></p>
 
 #### Context
 
@@ -26,17 +37,6 @@ The onboarding guide is a structured documentation set composed of categories an
 * Led team syncs, assigned and reviewed work, and ensured every contributor had the clarity and context they needed
 * Wrote and edited a substantial portion of the conceptual and procedural articles
 * Reviewed the final documentation set to ensure it met key goals
-
-### Artifacts
-
-🔗 **[View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding)**
-
-To illustrate the scale of the project and provide a snapshot of the information architecture, the following screenshot shows the full structure of the onboarding guide. The expanded left navigation menu shows categories and topics. The structure is designed to guide users sequentially through initial set up.
-
-<p><details><summary><b>Screenshot</b> (click to expand)</summary>
-<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/onboarding-guide_1.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide" /></p>
-<p><i>Screenshot captured September 2025.</i></p>
-</details></p>
 
 ### Impact
 
