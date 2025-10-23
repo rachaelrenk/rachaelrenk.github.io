@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Internal Process Documentation"
-date:   2025-10-07 14:27:46 -0600
+title:  "Process Documentation"
+date:   2025-09-30 14:27:46 -0600
 ---
 ## Plurality Process Documentation - Deloitte
 
-I authored this internal procedural guide to document a new workflow for creating singular and plural versions of publications within Deloitte's component content management system (CCMS). The document provides clear, step-by-step instructions for duplicating topics, variables, and publications while maintaining correct conditioning and tagging in the repository.
+In this procedural guide, I documented a new workflow for creating singular and plural versions of publications within Deloitte's component content management system (CCMS). The document provides clear, step-by-step instructions for duplicating topics, variables, and publications while maintaining correct conditioning and tagging in the repository.
 
 ### Artifacts
 

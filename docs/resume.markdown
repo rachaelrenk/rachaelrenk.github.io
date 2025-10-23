@@ -62,7 +62,7 @@ Improving accuracy and consistency of published content.
 </p>
 
 **Selected Writing Sample**
-- **[Plurality Process Documentation](/2025/10/07/internal-process.html)** – Authored internal procedural guide documenting workflow for creating singular and plural versions of publications within Deloitte’s CCMS.
+- **[Plurality Process Documentation](/2025/09/30/internal-process.html)** – Authored internal procedural guide documenting workflow for creating singular and plural versions of publications within Deloitte’s CCMS.
 
 ### **Senior Technical Writer** (GitHub)
 *Remote | 2022–2025*  

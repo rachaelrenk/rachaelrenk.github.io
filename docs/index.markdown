@@ -14,4 +14,4 @@ Since 2013, I’ve created accessible documentation for hardware, software, and 
 
 This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), a little about my background, and an experimental resume. The site is very much under construction, and my personal sandbox, so check back often for updates!
 
-To see my detailed work history or to connect, find me on [LinkedIn](https://www.linkedin.com/in/rachaelrenk).
+To see a detailed work history or to connect, check out my [LinkedIn](https://www.linkedin.com/in/rachaelrenk).
