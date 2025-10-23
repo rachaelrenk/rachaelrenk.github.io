@@ -223,7 +223,7 @@ Delivered clear, accurate documentation with a focus on user needs and localizat
 
 **Selected Writing Samples**
 - **[HP LaserJet MFP Service Manual](https://drive.google.com/file/d/1kQORQmh3Qnk59OjtQrfQLf8kUzUiu9-f/view?usp=sharing)**
-- **HP JetAdvantage Online Help**:
+- **HP JetAdvantage Online Help Topics**:
   - [Manage users as an administrator](https://drive.google.com/file/d/10dGZ69XDq9eM4c9vLdAiIE2x8uB7p2Zf/view?usp=sharing)
   - [Company administrator overview](https://drive.google.com/file/d/1OIkes4C-7qHXTlfThu0K_UEwz3Bofaae/view?usp=sharing)
 
