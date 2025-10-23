@@ -10,7 +10,14 @@ permalink: /resume/
 
 📍 _Boise, ID (Remote)_
 
-This is my experimental resume, which is very much under construction. For a traditional, detailed work history, please visit my [LinkedIn profile](https://www.linkedin.com/in/rachaelrenk).
+This is my experimental resume. It's a living document where I test new ways of weaving together and sharing my story as a technical communicator. 
+
+For a more traditional resume experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/rachaelrenk).
+
+Jump to:
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
 
 ---
 
@@ -24,8 +31,6 @@ Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • C
 
 ---
 ## Experience
-
-I have been working in technical communication roles since 2013. This list summarizes those roles, along with my responsibilities, tools used, and the impact of my work.
 
 ### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
