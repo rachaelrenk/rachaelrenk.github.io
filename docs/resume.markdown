@@ -62,7 +62,7 @@ Improving accuracy and consistency of published content.
 </p>
 
 **Selected Writing Sample**
-- **[Plurality Process Documentation](/2025/09/30/internal-process.html)** – Authored internal procedural guide documenting workflow for creating singular and plural versions of publications within Deloitte’s CCMS.
+- **[Plurality process documentation](/2025/09/30/internal-process.html)** – Authored internal procedural guide documenting workflow for creating singular and plural versions of publications within Deloitte’s CCMS.
 
 ### **Senior Technical Writer** (GitHub)
 *Remote | 2022–2025*  
@@ -101,10 +101,10 @@ Git, GitHub, CI/CD workflows, Markdown, JSON, YAML, Liquid, AI-assisted tools
 
 **Selected Writing Samples**
 
-- **[GitHub Enterprise Server Release Notes](/2025/03/release-notes.html)** – Planned, coordinated, and published release documentation across multiple teams; leveraged AI tooling to automate sourcing and improve consistency.
-- **[Enterprise Onboarding Guide](/2025/06/enterprise-onboarding-guide.html)** – Led planning and delivery of a comprehensive onboarding doc set that improved customer self-service and reduced support tickets.  
-- **[Setting Up and Ending a Trial](/2025/10/04/procedural-topics-2.html)** – Authored step-by-step guides addressing critical customer decision points during the enterprise trial phase.  
-- **[Setting Up an Organization](/2025/05/procedural-topic-1.html)** – Developed clear, task-based guidance to help administrators establish organizational structure during onboarding. Improved clarity and navigation, reducing errors and support dependency.
+- **[Enterprise release notes](/2025/03/release-notes.html)** – Led planning, authoring, and publication of release documentation, improving accuracy, consistency, and cross-team efficiency.
+- **[Enterprise onboarding guide](/2025/06/enterprise-onboarding-guide.html)** – Led planning and delivery of a comprehensive onboarding doc set that streamlined enterprise setup and reduced support tickets.
+- **[Setting up and Ending a trial](/2025/10/04/procedural-topics-2.html)** – Authored trial lifecycle documentation to clarify critical transitions and enable self-service for new enterprise customers.
+- **[Setting Up an Organization](/2025/05/procedural-topic-1.html)** – Developed clear, task-based guide to establishing organizational structure during onboarding.
 
 ### **Proposal Manager** (Fast Enterprises)
 *Boise, ID | 2018–2022*  
@@ -150,6 +150,9 @@ Delivered dozens of high-impact proposals that fueled company growth and secured
 *Boise, ID | 2019–2020*
 
 Designed and taught undergraduate technical communication courses as an adjunct instructor. Developed curriculum, learning materials, and assessments to teach foundational concepts in technical and business communication.
+
+**Selected Work Sample**
+- **[CRAP: or, the Fundamentals of Design (presentation)](https://docs.google.com/presentation/d/1k52FFbA8hNsY8NfxR-upDSpSOx-fHuib/edit?usp=sharing&ouid=107164642269294871698&rtpof=true&sd=true)** - Developed and delivered a lecture on design principles for technical communicators.
 
 ### **Training Coordinator** (Fast Enterprises)
 *Olympia, WA | 2017–2018*  
