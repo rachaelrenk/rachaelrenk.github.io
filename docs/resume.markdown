@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## Rachael Renk
+## Rachael Renk - Resume
 
 **Technical Writer, Content Strategist, User Advocate**
 
@@ -20,12 +20,12 @@ This is my experimental resume, which is very much under construction. For a tra
 Technical Writing & Editing • Content Design • Information Architecture • Content Strategy & Governance • Style Guide Development • Content Management • UX Writing • Accessibility & Plain Language • Cross-functional Collaboration • Process Improvement • Remote First & Asynchronous Work
 
 **Tools & Technologies:**  
-Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • CMS • CCMS • DITA • XML • YAML • HTML/CSS • Liquid • Markdown • Visual Studio Code • Microsoft Office • Adobe Acrobat, Captivate • AI-assisted Tools
+Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • CMS • CCMS • DITA • XML • YAML • HTML/CSS • Liquid • Markdown • Visual Studio Code • Microsoft Office • Adobe Acrobat, Captivate • AI-assisted Writing Tools
 
 ---
 ## Experience
 
-I have been working in technical communication roles since 2013. Following is a summary of those roles, along with my responsibilities, tools used, and the impact of my work.
+I have been working in technical communication roles since 2013. This list summarizes those roles, along with my responsibilities, tools used, and the impact of my work.
 
 ### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
@@ -60,6 +60,9 @@ CCMS (Tridion), DITA/XML, Microsoft Office, SharePoint
 Improving accuracy and consistency of published content.
 </details>
 </p>
+
+**Selected Writing Sample**
+- **[Plurality Process Documentation](/2025/10/07/internal-process.html)** – Authored internal procedural guide documenting workflow for creating singular and plural versions of publications within Deloitte’s CCMS.
 
 ### **Senior Technical Writer** (GitHub)
 *Remote | 2022–2025*  
@@ -98,10 +101,10 @@ Git, GitHub, CI/CD workflows, Markdown, JSON, YAML, Liquid, AI-assisted tools
 
 **Selected Writing Samples**
 
-- **[GitHub Enterprise Release Notes (v3.16)](/samples/release-notes)** – Planned, coordinated, and published release documentation across multiple teams; leveraged AI tooling to automate sourcing and improve consistency.
-- **[Enterprise Onboarding Guide](/samples/enterprise-onboarding)** – Led planning and delivery of a comprehensive onboarding doc set that improved customer self-service and reduced support tickets.  
-- **[Procedural Topics: Setting Up and Ending a Trial](/samples/procedural-topics)** – Authored step-by-step guides addressing critical customer decision points during the enterprise trial phase.  
-- **[Conceptual Topics: Enterprise Security Models](/samples/conceptual-topics)** – Developed content explaining key identity and access models to help enterprise customers choose and configure their setup path.
+- **[GitHub Enterprise Server Release Notes](/2025/03/release-notes.html)** – Planned, coordinated, and published release documentation across multiple teams; leveraged AI tooling to automate sourcing and improve consistency.
+- **[Enterprise Onboarding Guide](/2025/06/enterprise-onboarding-guide.html)** – Led planning and delivery of a comprehensive onboarding doc set that improved customer self-service and reduced support tickets.  
+- **[Setting Up and Ending a Trial](/2025/10/04/procedural-topics-2.html)** – Authored step-by-step guides addressing critical customer decision points during the enterprise trial phase.  
+- **[Setting Up an Organization](/2025/05/procedural-topic-1.html)** – Developed clear, task-based guidance to help administrators establish organizational structure during onboarding. Improved clarity and navigation, reducing errors and support dependency.
 
 ### **Proposal Manager** (Fast Enterprises)
 *Boise, ID | 2018–2022*  
@@ -217,6 +220,12 @@ CMS (Vasont, Documentum), XML, Adobe Acrobat, Adobe Captivate, Microsoft Office 
 Delivered clear, accurate documentation with a focus on user needs and localization.
 </details>
 </p>
+
+**Selected Writing Samples**
+- **[HP LaserJet MFP Service Manual](https://drive.google.com/file/d/1kQORQmh3Qnk59OjtQrfQLf8kUzUiu9-f/view?usp=sharing)**
+- **HP JetAdvantage Online Help**:
+  - [Manage users as an administrator](https://drive.google.com/file/d/10dGZ69XDq9eM4c9vLdAiIE2x8uB7p2Zf/view?usp=sharing)
+  - [Company administrator overview](https://drive.google.com/file/d/1OIkes4C-7qHXTlfThu0K_UEwz3Bofaae/view?usp=sharing)
 
 ### **Technical Writing Intern** (Aquent)
 *Boise, ID | 2013*

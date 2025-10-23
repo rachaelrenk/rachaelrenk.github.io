@@ -2,7 +2,6 @@
 layout: post
 title:  "Technical Proposal"
 date:   2025-10-02 14:27:46 -0600
-categories: proposal
 ---
 ## Ohio Tax Modernization Proposal – Fast Enterprises
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Release Notes"
 date:   2025-10-03 14:27:46 -0600
-categories: SaaS documentation, release notes
 ---
 ## GHES 3.16 Release Notes – GitHub
 
