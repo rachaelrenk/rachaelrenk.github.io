@@ -35,7 +35,7 @@ Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • C
 ### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
 
-Content production analyst providing content management and publishing activities to ensure accurate, consistent, and high-quality information across the Deloitte Global Information & Knowledge Organization's assets.
+Providing content management and production support to ensure accurate, consistent, and high-quality information across the Deloitte Global Information & Knowledge Organization's assets.
 
 <p>
 <details>
