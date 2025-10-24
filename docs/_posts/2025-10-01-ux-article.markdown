@@ -5,7 +5,7 @@ date:   2025-10-01 14:27:46 -0600
 ---
 ## Plain Language for UX Writing – UX Collective (Medium)
 
-I wrote this thought-leadership article for UX Collective to explore how plain language principles improve usability, accessibility, and the overall user experience. It connects my background in technical communication with my passion for user-centered design and clear, inclusive content.
+I wrote this thought-leadership article for UX Collective to explore how plain language principles improve usability, accessibility, and the overall user experience. It connects my background in technical communication with my passion for human-centered design and clear, inclusive content.
 
 #### Artifacts
 
