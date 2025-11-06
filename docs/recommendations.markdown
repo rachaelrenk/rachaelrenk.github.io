@@ -114,4 +114,4 @@ A summary of peer feedback from colleagues at GitHub:
 Peers across engineering, product, and documentation consistently praised Rachael for her thoughtful leadership, collaborative spirit, and ability to make complex work feel approachable. Known for owning large-scale content initiatives, coordinating across time zones, and mentoring teammates, she creates a sense of shared purpose while delivering accurate, scalable docs. Whether triaging release notes or untangling billing flows, Rachael's attention to detail and empathy for users make her a trusted partner in every project.
 </div>
 
-_[Back to portfolio](/index/)_
+_[Back to portfolio](/index.html)_

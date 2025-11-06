@@ -250,4 +250,4 @@ Boise State University (2017)
 **Bachelor of Arts in English, Technical Communication**  
 Boise State University (2014)
 
-_[Back to portfolio](/index/)_
+_[Back to portfolio](/index.html)_

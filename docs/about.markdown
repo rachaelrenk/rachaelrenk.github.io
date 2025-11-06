@@ -21,4 +21,4 @@ Reading, writing, and comprehension came naturally. I was a book worm, and I lov
 
 Teaching HTML to my peers was incredibly energizing. I wanted to help people understand and use technology, and I sensed I could do so through writing and tools like the internet. It would be a while longer before I connected my feelings with the field of technical communication, but I was well on my way.
 
-_[Back to portfolio](/index/)_
+_[Back to portfolio](/index.html)_

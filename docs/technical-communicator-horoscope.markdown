@@ -11,4 +11,4 @@ Rachael's Technical Communicator Horoscope:
 >
 > Co-Star
 
-_[Back to portfolio](/index/)_
+_[Back to portfolio](/index.html)_
