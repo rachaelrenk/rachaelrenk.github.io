@@ -11,7 +11,7 @@ Where did I come from, and how did I get here?
 
 I was born in 1991. I'm not supposed to expose my age, but it helps paint a picture of the technological landscape in which I grew up.
 
-When I was 6, my family got our first PC. It came with Windows 95. I fastidiously opened and inspected every file, folder, and application on that machine. I explored new programs until I knew all the functions, or until something broke (sorry, Mom and Dad). Once we got Microsoft Office, I spent hours designing newsletters and websites. There was nowhere to publish my work, but I loved the creative process.
+When I was 6, my family got our first PC, which came loaded with Windows 95. I fastidiously opened and inspected every file, folder, and application on that machine. I explored new programs until I knew all the functions, or until something broke (sorry, Mom and Dad). Once we got Microsoft Office, I spent hours designing newsletters and websites. There was nowhere to publish my work, but I loved the creative process.
 
 Dial-up internet followed a few years later, and with it, _extremely slow_ access to the rest of the world: email, message boards, IRC, and real websites. Now that I was connected, I wanted to build. Equipped with Notepad, Firefox, and library books, I taught myself HTML/XHTML, and later, CSS. I viewed the source code of every interesting website I found, and I coded my own sites from scratch. Then, I organized a class and taught HTML to the other kids in my homeschool co-op. 
 
