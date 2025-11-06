@@ -20,3 +20,5 @@ Yes, _homeschool_. I've always been an autodidact - and a bit of an non-conformi
 Reading, writing, and comprehension came naturally. I was a book worm, and I loved to write. (One summer, I completed several grade levels of spelling and grammar just for fun. I flourish when I can work at my own pace.) I realized early on that writing was a powerful way to share information and ideas.
 
 Teaching HTML to my peers was incredibly energizing. I wanted to help people understand and use technology, and I sensed I could do so through writing and tools like the internet. It would be a while longer before I connected my feelings with the field of technical communication, but I was well on my way.
+
+_[Back to portfolio](/index/)_
