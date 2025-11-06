@@ -2,6 +2,7 @@
 layout: page
 title: Horoscope
 permalink: /technical-communicator-horoscope/
+order: 4
 ---
 
 Rachael's Technical Communicator Horoscope:

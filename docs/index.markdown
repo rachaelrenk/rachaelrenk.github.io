@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Portfolio
+title: 
+order: 1
 ---
 
-**👋 Hi, I'm Rachael.** This is my portfolio.
+**Hi, I'm Rachael.** This is my portfolio.
 
 I’m a user advocate, communication nerd, and technical writer. I care deeply about human-centered content design and turning complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work.
 
@@ -16,13 +17,13 @@ This portfolio site is built with Jekyll and GitHub Pages. Right now, it feature
 
 ## **Selected Work Samples**
 
+### [Enterprise Release Notes](2025/10/03/release-notes.html)
+
 ### [Onboarding Guide](2025/10/06/enterprise-onboarding-guide.html)
 
 ### [Procedural Topic (1)](2025/10/05/procedural-topic-1.html)
 
 ### [Procedural Topics (2)](2025/10/04/procedural-topics-2.html)
-
-### [Enterprise Release Notes](2025/10/03/release-notes.html)
 
 ### [Technical Proposal](2025/10/02/technical-proposal.html)
 

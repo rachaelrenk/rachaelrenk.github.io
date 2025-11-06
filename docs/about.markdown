@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 3
 ---
 
 Where did I come from, and how did I get here?
