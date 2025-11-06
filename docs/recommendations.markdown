@@ -93,7 +93,7 @@ _You don't have to take my word for it!_
 
 <div class="recommendation">
 <div class="recommendation-text">
-<p>I had the privilege of working with Rachael on the GitHub Docs team, where she consistently demonstrated excellence in every facet of her role as a senior technical writer. Her ability to quickly grasp complex technical concepts and translate them into clear, precise, and user-centered documentation made her an invaluable asset to our team.</p>
+<p>I had the privilege of working with Rachael on the GitHub Docs team, where she consistently demonstrated excellence in every facet of her role as a senior technical writer. Her ability to quickly <b>grasp complex technical concepts and translate them into clear, precise, and user-centered documentation</b> made her an invaluable asset to our team.</p>
 
 <p>Rachael brought an exceptional level of attention to detail and rigor to her work. Whether she was untangling nuanced workflows or partnering with technical teams to improve user-facing content, she always approached each challenge with <b>curiosity, focus, and a collaborative spirit.</b> Her strong research skills and technical acumen enabled her to deliver high-quality documentation, even in fast-moving and ambiguous environments.</p>
 
