@@ -11,7 +11,7 @@ order: 1
 
 I’m a user advocate, communication nerd, and technical writer. I care deeply about human-centered content design and turning complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work.
 
-Since 2013, I’ve created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government system modernizations; created beginner-friendly training materials for enterprise software; and developed and taught college courses in technical communication.
+Since 2014, I’ve created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government system modernizations; created beginner-friendly training materials for enterprise software; and developed and taught college courses in technical communication.
 
 This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback, a peek at my origin story, and an [experimental resume](/resume/). It's under construction, so check back for updates. ✌️
 
