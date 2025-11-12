@@ -17,10 +17,6 @@ _**Note:**_ This proposal contains proprietary and confidential information. In 
 
 This deliverable was a formal, highly technical proposal that demonstrated FAST's expertise, compliance with complex state requirements, and ability to modernize large-scale public systems. The proposal was read by technical evaluators and non-technical decision makers, requiring clear, persuaive, and unified messaging.
 
-**Role:** Proposal Manager
-
-**Date:** 2021
-
 **Activities:**
 
 * Collaborated with technical and functional SMEs, project managers, designers, and legal counsel to interpret requirements and align responses

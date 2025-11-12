@@ -106,10 +106,10 @@ Git, GitHub, CI/CD workflows, Markdown, JSON, YAML, Liquid, AI-assisted tools
 </p>
 
 **Selected Writing Samples**
-
-- **[Enterprise release notes](/2025/03/release-notes.html)** – Led planning, authoring, and publication of release documentation, improving accuracy, consistency, and cross-team efficiency.
-- **[Enterprise onboarding guide](/2025/06/enterprise-onboarding-guide.html)** – Led planning and delivery of a comprehensive onboarding doc set that streamlined enterprise setup and reduced support tickets.
-- **[Setting up and Ending a trial](/2025/10/04/procedural-topics-2.html)** – Authored trial lifecycle documentation to clarify critical transitions and enable self-service for new enterprise customers.
+- **[Finding the object ID for your Entra OIDC application](/2025/10/05/procedural-topic-2.html)** – Developed clear, task-based guide to help enterprise administrators locate their Entra OIDC app object ID.
+- **[Enterprise Server 3.16 release notes](/2025/03/release-notes.html)** – Led planning, authoring, and publication of release documentation, improving accuracy, consistency, and cross-team efficiency.
+- **[Enterprise administrator onboarding guide](/2025/06/enterprise-onboarding-guide.html)** – Led planning and delivery of a comprehensive onboarding doc set that streamlined enterprise setup and reduced support tickets.
+- **[Setting up and Ending a trial](/2025/10/04/conceptual-topics-2.html)** – Authored trial lifecycle documentation to clarify critical transitions and enable self-service for new enterprise customers.
 - **[Setting up an organization](/2025/05/procedural-topic-1.html)** – Developed clear, task-based guide to establishing organizational structure during onboarding.
 
 ### **Proposal Manager** (Fast Enterprises)
@@ -150,7 +150,7 @@ Delivered dozens of high-impact proposals that fueled company growth and secured
 
 **Selected Writing Sample**
 
-- **[State of Ohio Tax Modernization Proposal](/samples/technical-proposal)** – Managed full proposal lifecycle, aligning technical and business messaging for a successful bid awarded in 2022.
+- **[State of Ohio Tax Modernization Technical Proposal](/samples/technical-proposal)** – Managed full proposal lifecycle, aligning technical and business messaging for a successful bid awarded in 2022.
 
 ### **Technical Communication Instructor** (Boise State University)
 *Boise, ID | 2019–2020*

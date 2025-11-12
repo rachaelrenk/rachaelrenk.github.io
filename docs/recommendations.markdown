@@ -49,7 +49,7 @@ order: 2
 }
 </style>
 
-_You don't have to take my word for it!_
+_But don't take my word for it!_
 
 ## Recommendations
 

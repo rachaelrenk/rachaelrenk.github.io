@@ -15,10 +15,6 @@ In this procedural guide, I documented a new workflow for creating singular and 
 
 I created this guide to support publication plurality across Deloitte’s CCMS-managed content. I researched and tested the steps using internal tools, ensuring technical accuracy, repeatability, and adherence to DITA-based architecture and metadata standards.
 
-**Role:** Content Analyst, Technical Writer
-
-**Date:** 2025
-
 **Activities:**
 
 * Authored plain-language procedures to document and standardize the plurality update process.

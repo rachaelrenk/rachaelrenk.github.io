@@ -7,7 +7,7 @@ title:
 order: 1
 ---
 
-**Hi, I'm Rachael.** Welcome to my technical communication portfolio.
+**Hi, I'm Rachael.** Welcome to my portfolio.
 
 I’m a user advocate, communication nerd, and technical writer. I care deeply about human-centered content design and turning complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work.
 
@@ -17,14 +17,16 @@ This portfolio site is built with Jekyll and GitHub Pages. Right now, it feature
 
 ## **Selected Work Samples**
 
-### [Enterprise Release Notes](2025/10/03/release-notes.html)
+* **[Release Notes](2025/10/03/release-notes.html):** Enterprise Server 3.16.0 release notes _(GitHub)_
 
-### [Onboarding Guide](2025/10/06/enterprise-onboarding-guide.html)
+* **[Procedural Topic (1)](2025/10/05/procedural-topic-1.html):** "Setting up an organization" _(GitHub)_
 
-### [Procedural Topic (1)](2025/10/05/procedural-topic-1.html)
+* **[Procedural Topic (2)](2025/10/05/procedural-topic-2.html):** "Finding the object ID for your Entra OIDC application" _(GitHub)_
 
-### [Procedural Topics (2)](2025/10/04/procedural-topics-2.html)
+* **[Conceptual Topics](2025/10/04/conceptual-topics-2.html):** "Setting up a trial" and "Ending a trial" _(GitHub)_
 
-### [Technical Proposal](2025/10/02/technical-proposal.html)
+* **[Onboarding Guide](2025/10/06/enterprise-onboarding-guide.html):** Enterprise administrator onboarding guide _(GitHub)_
 
-### [UX Article](2025/10/01/ux-article.html)
+* **[Technical Proposal](2025/10/02/technical-proposal.html):** Ohio Tax Modernization Proposal _(Fast Enterprises)_
+
+* **[UX Article](2025/10/01/ux-article.html):** "Plain Language for UX Writing" _(UX Collective)_

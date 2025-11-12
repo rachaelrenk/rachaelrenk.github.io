@@ -20,11 +20,7 @@ To illustrate the scale of the project and provide a snapshot of the information
 
 #### Context
 
-The onboarding guide is a structured documentation set composed of categories and topics published on [docs.github.com](https://docs.github.com). It was created to support new GitHub Enterprise Cloud administrators through complex setup and configuration decisions, addressing common pain points and enabling faster, self-serve onboarding with less reliance on support.
-
-**Role:** Technical Writer, Project Lead
-
-**Date:** 2025
+The onboarding guide is a structured documentation set composed of categories and topics published on [docs.github.com](https://docs.github.com) that was designed to support new GitHub Enterprise Cloud administrators through complex setup and configuration decisions, addressing common pain points and enabling faster, self-serve onboarding with less reliance on support.
 
 **Activities:**
 

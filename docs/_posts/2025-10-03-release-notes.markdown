@@ -3,7 +3,7 @@ layout: post
 title:  "Release Notes"
 date:   2025-10-03 14:27:46 -0600
 ---
-## GHES 3.16 Release Notes – GitHub
+## Enterprise Server 3.16 Release Notes – GitHub
 
 As the Directly Responsible Individual (DRI), I owned documentation for GitHub Enterprise Server (GHES) major and patch releases, including new feature docs and release notes. I established and managed a rotation program for technical writers supporting each release, ensuring coverage and consistency across versions, and personally served as the docs DRI for the GHES 3.16 release cycle.
 
@@ -26,10 +26,6 @@ As the Directly Responsible Individual (DRI), I owned documentation for GitHub E
 #### Context
 
 Each GHES release involved close collaboration with PMs, TPMs, and engineers to communicate new and updated features, fixes, and breaking changes for enterprise administrators and developers. For the 3.16 release, I led coordination across globally distributed teams to ensure accuracy, consistency, and timely delivery within GitHub’s docs-as-code publishing workflow.
-
-**Role:** Technical Writer, DRI
-
-**Date:** 2024-2025
 
 **Activities:**
 
