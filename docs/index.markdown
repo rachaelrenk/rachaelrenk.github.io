@@ -13,7 +13,9 @@ I’m a user advocate, communication nerd, and technical writer. I care deeply a
 
 Since 2014, I’ve created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government system modernizations; created beginner-friendly software training; and developed and taught college courses in technical communication.
 
-This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback, a peek at my origin story, and an [experimental resume](/resume/). It's under construction, so check back for updates. ✌️
+This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback, a peek at my origin story, and an [experimental resume](/resume/). 
+
+Things are under construction around here, so check back often for updates. ✌️
 
 ## **Selected Work Samples**
 
