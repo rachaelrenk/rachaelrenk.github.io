@@ -9,7 +9,7 @@ order: 1
 
 **Hi, I'm Rachael.** Welcome to my portfolio.
 
-I’m a user advocate, communication nerd, and technical writer. I care deeply about human-centered content design and turning complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work.
+I’m a user advocate, communication nerd, and technical writer. I care deeply about human-centered content design and turning complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work (it might even spark delight).
 
 Since 2014, I’ve created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government system modernizations; created beginner-friendly software training; and developed and taught college courses in technical communication.
 

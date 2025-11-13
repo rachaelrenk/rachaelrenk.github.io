@@ -7,7 +7,7 @@ date:   2025-10-05 14:27:46 -0600
 This procedural topic helps enterprise administrators locate the object ID for their Microsoft Entra OIDC app, a prerequisite for configuring token lifetime policies for managed users.
 
 ### Artifacts
-* [View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/configuring-authentication-for-enterprise-managed-users/finding-the-object-id-for-your-entra-oidc-application?search-overlay-input=migrating+your+enterprise#using-microsoft-entra-id-admin-center-to-find-your-object-id) 🔗
+* [View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/configuring-authentication-for-enterprise-managed-users/finding-the-object-id-for-your-entra-oidc-application) 🔗
 * [View the PDF.](https://github.com/rachaelrenk/rachaelrenk/blob/678cd4c94a5698823731ee740c02534ac820adca/images/Finding-the-object-ID-for-your-Entra-OIDC-application-GHEC.pdf) 📷
 
 <p><details><summary><b>Screenshots</b> (click to expand)</summary>
