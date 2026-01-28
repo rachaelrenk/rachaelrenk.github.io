@@ -27,3 +27,77 @@ blockquote cite:before {
     content: "—";
     margin-right: 0.5em;
 }
+
+/* Work sample quick stats */
+.work-sample-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.fact-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 1rem;
+  background: #f6f8fa;
+}
+
+.fact-card strong {
+  display: block;
+  color: #0366d6;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.fact-card p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Artifact links styling */
+.artifact-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.artifact-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  border: 2px solid #0366d6;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.artifact-links a:hover {
+  background: #0366d6;
+  color: white;
+}
+
+/* Collapsible details */
+details {
+  margin: 2rem 0;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  user-select: none;
+}
+
+details[open] summary {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e1e4e8;
+}
