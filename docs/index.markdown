@@ -18,7 +18,7 @@ This portfolio site is built with Jekyll and GitHub Pages. Right now, it feature
 Things are under construction around here, so check back often for updates. ✌️
 
 ## **Selected Work Samples**
-* **[Environments Documentation](2026/01/28/environments-documentation.html):** "Environments" _(Warp)_
+* **[Environments Documentation](2026/01/28/environments-warp.html):** "Environments" _(Warp)_
 
 * **[Release Notes](2025/10/03/release-notes.html):** Enterprise Server 3.16.0 release notes _(GitHub)_
 
