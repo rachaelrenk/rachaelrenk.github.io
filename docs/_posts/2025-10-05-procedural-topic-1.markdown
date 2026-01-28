@@ -1,77 +1,70 @@
 ---
 layout: post
-title:  "Procedural Topic (1)"
-date:   2025-10-05 14:27:46 -0600
+title: "Procedural Topic (1)"
+date: 2025-10-05
 ---
 
-## Setting up an organization  - GitHub
-This procedural topic guides new enterprise administrators through the process of adding organizations to their enterprise accounts. I authored this topic as part of the broader [GitHub Enterprise Onboarding Guide](/2025/10/06/enterprise-onboarding-guide.html) initiative.
+## Setting Up an Organization – GitHub
 
-### Artifacts
-**"Setting up an organization"**
-* [View the PDF.](https://github.com/rachaelrenk/rachaelrenk/blob/eb14eb14dab1e665dd9aa9061f4cfeed95db7af2/images/setting-up-an-organization.pdf) 📷
+**Improved task success during enterprise setup by clarifying a complex, conditional process for establishing organizational structure and ownership.**
 
-<p><details><summary><b>Screenshot</b> (click to expand)</summary>
-<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/setting-up-an-org-1.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide" /></p>
-</details></p>
-
-#### Context
-This article supports enterprise administrators during the early onboarding phase of the customer journey. The procedure addresses a key step in enterprise configuration: establishing organizational structure, roles, and ownership. The goal was to clarify a complex process involving conditional steps (based on enterprise type and account status) and ensure that administrators could complete setup without support intervention.
-
-**Activities:**
-
-* Conducted hands-on testing to validate each step and confirm UI behavior
-* Structured content for clarity and logical flow, reflecting two possible paths ("create new" vs. "invite existing")
-* Authored clear, step-by-step instructions supported by plain language and consistent formatting
-* Linked related topics across the onboarding documentation to reinforce information flow and minimize redundancy
+`👥 Enterprise Admins` `🎯 Reduced support dependency` `📅 2025`
 
 ### Impact
-Improved user comprehension and task success during enterprise setup by reducing confusion around organizational management and account constraints. The article became a key procedural reference in the enterprise onboarding flow, helping customers self-serve critical configuration steps and reducing dependency on support.
 
-### Tools and skills
-* Docs-as-code
-* Git/GitHub
-* Markdown
-* Liquid
-* CI/CD
-* YAML
+This procedural article became a key reference in the enterprise onboarding flow, helping new administrators self-serve critical configuration steps without support intervention. By clarifying a complex process with conditional paths based on enterprise type and account status, the article improved user comprehension and reduced confusion around organizational management constraints during early-stage setup.
 
+### At a Glance
 
-## Finding the object ID for your Entra OIDC application - GitHub
-This procedural topic helps enterprise administrators locate the object ID for their Microsoft Entra OIDC app, a prerequisite for configuring token lifetime policies for managed users.
+<div class="work-sample-grid">
+  <div class="fact-card">
+    <strong>Audience</strong>
+    <p>New GitHub Enterprise Cloud administrators during onboarding</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Goal</strong>
+    <p>Clarify conditional setup paths; enable self-serve configuration; reduce support calls</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Collaboration</strong>
+    <p>Content design team, onboarding guide stakeholders</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Tools</strong>
+    <p>Git/GitHub, Markdown, Liquid, YAML, docs-as-code</p>
+  </div>
+</div>
 
-### Artifacts
-**"Setting up an organization"**
-* [View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/configuring-authentication-for-enterprise-managed-users/finding-the-object-id-for-your-entra-oidc-application?search-overlay-input=migrating+your+enterprise#using-microsoft-entra-id-admin-center-to-find-your-object-id) 🔗
-* [View the PDF.](https://github.com/rachaelrenk/rachaelrenk/blob/678cd4c94a5698823731ee740c02534ac820adca/images/Finding-the-object-ID-for-your-Entra-OIDC-application-GHEC.pdf)📷 _PDF captured Oct 2025._
+### View the Work
 
-<p><details><summary><b>Screenshot</b> (click to expand)</summary>
-<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/Finding-the-object-ID-for-your-Entra-OIDC-application-GHEC-1.png?raw=true" style="border: 1px solid black" alt="First page of the article" /></p>
+<div class="artifact-links">
+  📷 <a href="https://github.com/rachaelrenk/rachaelrenk/blob/eb14eb14dab1e665dd9aa9061f4cfeed95db7af2/images/setting-up-an-organization.pdf" target="_blank">View PDF</a>
+  
+  📷 <a href="#screenshots">View screenshot</a>
+</div>
 
-<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/Finding-the-object-ID-for-your-Entra-OIDC-application-GHEC-2.png?raw=true" style="border: 1px solid black" alt="Second page of the article" /></p>
+<p><details id="screenshots"><summary><strong>Screenshot</strong> (click to expand)</summary>
+<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/setting-up-an-org-1.png?raw=true" style="border: 1px solid black" alt="Article showing procedural steps for setting up an organization in GitHub Enterprise" /></p>
+<p><i>Screenshot captured October 2025.</i></p>
 </details></p>
 
-#### Context
-This article supports enterprise administrators who are responsible for identitiy and access management (IAM) within GitHub Enterprise Cloud by clarifying na essential but previously undocumented step in the configuration workflow. The article is part of a larger Enterprise Managed Users (EMU) docset, which helps administrators integrate external identity provides such as Entra ID and PingFederate.
+<details>
+<summary><strong>Behind the work</strong> (click to expand)</summary>
 
-**Role:** Technical Writer
+<p><strong>Context:</strong></p>
 
-**Date:** 2024
+<p>This article supports enterprise administrators during the early onboarding phase as they establish organizational structure, roles, and ownership. The procedure addresses a complex process with conditional steps based on enterprise type and account status. The goal was to ensure administrators could complete setup without support intervention. This article was authored as part of the broader <a href="/2025/10/06/enterprise-onboarding-guide.html">GitHub Enterprise Onboarding Guide</a> initiative.</p>
 
-**Activities:**
+<p><strong>Activities:</strong></p>
 
-* Conducted hands-on testing to validate each step and confirm UI behavior
-* Structured content for clarity and logical flow, reflecting two possible paths ("create new" vs. "invite existing")
-* Authored clear, step-by-step instructions supported by plain language and consistent formatting
-* Linked related topics across the onboarding documentation to reinforce information flow and minimize redundancy
+<ul>
+  <li>Conducted hands-on testing to validate each step and confirm UI behavior across different enterprise configurations</li>
+  <li>Structured content for clarity and logical flow, reflecting two possible paths ("create new organization" vs. "invite existing organization")</li>
+  <li>Authored clear, step-by-step instructions supported by plain language and consistent formatting</li>
+  <li>Linked related topics across the onboarding documentation to reinforce information flow and minimize redundancy</li>
+</ul>
 
-### Impact
-By providing a clear, validated workflow and example Graph API query, the article reduced setup friction for enterprise customers and lowered support escalations related to OIDC session lifetime configuration. It also improved cross-product accuracy by aligning GitHub’s instructions with Microsoft’s current Entra documentation and API behavior.
-
-### Tools and skills
-* Docs-as-code
-* Git/GitHub
-* Markdown
-* Liquid
-* CI/CD
-* YAML
+</details>

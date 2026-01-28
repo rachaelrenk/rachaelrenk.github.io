@@ -6,20 +6,20 @@ date: 2026-01-28
 
 ## Environments Documentation – Warp
 
-**Helped platform teams adopt Warp's environment feature through clear conceptual documentation that reduced setup friction and support questions.**
+**Helped teams and developers use environments in Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
 
-`👥 DevOps Engineers` `🎯 Streamlined adoption` `📅 2025`
+`👥 DevOps Engineers & Developers` `🎯 Streamlined adoption` `📅 2025`
 
 ### Impact
 
-This 3,500-word conceptual guide helped platform teams understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
+This 3,500-word conceptual guide helped developers and engineers understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
 
 ### At a Glance
 
 <div class="work-sample-grid">
   <div class="fact-card">
     <strong>Audience</strong>
-    <p>DevOps engineers, platform teams, developers using Warp Platform automation</p>
+    <p>DevOps engineers and developers using Warp Platform automation</p>
   </div>
   
   <div class="fact-card">
@@ -29,12 +29,12 @@ This 3,500-word conceptual guide helped platform teams understand when and how t
   
   <div class="fact-card">
     <strong>Collaboration</strong>
-    <p>Product managers, engineering team, early adopters</p>
+    <p>Engineering, Growth</p>
   </div>
   
   <div class="fact-card">
     <strong>Tools</strong>
-    <p>GitBook, Git, Markdown</p>
+    <p>GitBook, Git, Markdown, Warp</p>
   </div>
 </div>
 
@@ -49,18 +49,20 @@ This 3,500-word conceptual guide helped platform teams understand when and how t
 <details>
 <summary><strong>Behind the work</strong> (click to expand)</summary>
 
-**Context:**
+<strong>Context:</strong>
 
-Warp's Environments feature ensures Ambient Agents run with consistent Docker-based toolchains across triggers (Slack, Linear, GitHub, API). Without clear guidance, users struggled to understand when environments were needed versus local runs, how they differed from related platform concepts, and how to troubleshoot configuration issues.
+Environments in Warp ensure that ambient agents run with consistent Docker-based toolchains across triggers (Slack, Linear, GitHub, API). Without clear guidance, users struggled to understand when environments were needed versus local runs, how they differed from related platform concepts, and how to troubleshoot configuration issues.
 
-**Activities:**
+<strong>Activities:</strong>
 
-- Collaborated with product team to validate technical accuracy and align explanations with product vision
-- Developed clear information architecture distinguishing environments from: execution hosts, agent profiles, rules, MCP servers, and per-run context
-- Created decision framework ("When to use environments") to help readers self-assess their needs
-- Wrote step-by-step instructions for both guided setup and CLI-based environment creation
-- Designed troubleshooting section addressing common setup failures (repo access, missing secrets, non-repeatable setup commands)
-- Structured complex runtime flow explanation to show what happens during automated runs
-- Included concrete code examples for CLI commands and Docker setup patterns
+<ul>
+<li>Collaborated with product team to validate technical accuracy and align explanations with product vision</li>
+<li>Developed clear information architecture distinguishing environments from: execution hosts, agent profiles, rules, MCP servers, and per-run context</li>
+<li>Created decision framework ("When to use environments") to help readers self-assess their needs</li>
+<li>Wrote step-by-step instructions for both guided setup and CLI-based environment creation</li>
+<li>Designed troubleshooting section addressing common setup failures (repo access, missing secrets, non-repeatable setup commands)</li>
+<li>Structured complex runtime flow explanation to show what happens during automated runs</li>
+<li>Included concrete code examples for CLI commands and Docker setup patterns</li>
+</ul>
 
 </details>

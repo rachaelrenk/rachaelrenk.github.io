@@ -1,47 +1,75 @@
 ---
 layout: post
-title:  "Onboarding Guide"
-date:   2025-10-06 14:27:46 -0600
+title: "Enterprise Onboarding Guide"
+date: 2025-10-06
 ---
-## Enterprise Onboarding Guide - GitHub
 
-I led the creation and delivery of a comprehensive onboarding guide for GitHub Enterprise Cloud customers.
+## Enterprise Onboarding Guide – GitHub
 
-### Artifacts
+**Led creation of a comprehensive onboarding guide that reduced support load and accelerated self-serve setup for GitHub Enterprise Cloud administrators.**
 
-🔗 **[View the live docs.](https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding)**
-
-To illustrate the scale of the project and provide a snapshot of the information architecture, the following screenshot shows the full structure of the onboarding guide. The expanded left navigation menu shows categories and topics. The structure is designed to guide users sequentially through initial set up.
-
-<p><details><summary><b>Screenshot</b> (click to expand)</summary>
-<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/onboarding-guide_1.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide" /></p>
-<p><i>Screenshot captured September 2025.</i></p>
-</details></p>
-
-#### Context
-
-The onboarding guide is a structured documentation set composed of categories and topics published on [docs.github.com](https://docs.github.com) that was designed to support new GitHub Enterprise Cloud administrators through complex setup and configuration decisions, addressing common pain points and enabling faster, self-serve onboarding with less reliance on support.
-
-**Activities:**
-
-* Partnered with content design to understand existing user research, goals, and painpoints
-* Refined structure of the doc set to logically support the customer journey
-* Audited existing content for reuse
-* Created a documentation plan that detailed what content needed to be created and updated, including an outline of articles and timeline for delivery
-* Organized team-wide "swarms" to draft and review articles
-* Led team syncs, assigned and reviewed work, and ensured every contributor had the clarity and context they needed
-* Wrote and edited a substantial portion of the conceptual and procedural articles
-* Reviewed the final documentation set to ensure it met key goals
+`👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2025`
 
 ### Impact
 
-The project earned strong feedback for improving onboarding efficiency and reducing support load. I was recognized for my leadership, organization, and ability to transform a complex content landscape into a cohesive, user-centered experience.
+This structured documentation set earned strong feedback for improving onboarding efficiency and reducing support load for new GitHub Enterprise Cloud customers. By transforming a complex content landscape into a cohesive, sequentially-organized guide, the project enabled administrators to complete setup and configuration decisions with less reliance on support. I was recognized for leadership, organization, and ability to deliver a user-centered experience across a distributed team.
 
-### Tools and skills
+### At a Glance
 
-* Docs-as-code
-* Git/GitHub
-* Markdown
-* Liquid
-* CI/CD
-* YAML
+<div class="work-sample-grid">
+  <div class="fact-card">
+    <strong>Audience</strong>
+    <p>GitHub Enterprise Cloud administrators, new enterprise customers</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Goal</strong>
+    <p>Enable faster self-serve onboarding; reduce support escalations; guide setup decisions</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Collaboration</strong>
+    <p>Content design, product managers, docs team</p>
+  </div>
+  
+  <div class="fact-card">
+    <strong>Tools</strong>
+    <p>Git/GitHub, Markdown, Liquid, YAML, docs-as-code</p>
+  </div>
+</div>
+
+### View the Work
+
+<div class="artifact-links">
+  🔗 <a href="https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding" target="_blank">View live documentation</a>
+  
+  📷 <a href="#screenshots">View screenshots</a>
+</div>
+
+<p><details id="screenshots"><summary><strong>Screenshot: Full guide structure</strong> (click to expand)</summary>
+<p>This screenshot shows the complete information architecture of the onboarding guide. The expanded left navigation menu displays categories and topics designed to guide users sequentially through initial setup.</p>
+<p><img src="https://github.com/rachaelrenk/rachaelrenk/blob/main/images/onboarding-guide_1.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide showing full navigation structure" /></p>
+<p><i>Screenshot captured September 2025.</i></p>
+</details></p>
+
+<details>
+<summary><strong>Behind the work</strong> (click to expand)</summary>
+
+<strong>Context:</strong>
+
+GitHub Enterprise Cloud administrators faced a fragmented documentation experience that made initial setup unnecessarily complex. Without a cohesive onboarding path, customers frequently escalated to support for guidance on configuration decisions that could have been self-served with better documentation structure.
+
+<strong>Activities:</strong>
+
+<ul>
+<li>Partnered with content design to understand existing user research, customer pain points, and onboarding goals</li>
+<li>Refined information architecture to logically support the customer journey from initial setup through configuration</li>
+<li>Audited existing content across the docs site to identify reusable material and content gaps</li>
+<li>Created comprehensive documentation plan detailing required articles, outlines, and delivery timeline</li>
+<li>Organized team-wide "swarms" to collaboratively draft and review articles</li>
+<li>Led team syncs, assigned work, and ensured every contributor had necessary clarity and context</li>
+<li>Wrote and edited substantial portions of conceptual and procedural articles</li>
+<li>Conducted final review of complete documentation set to ensure alignment with user-centered goals</li>
+</ul>
+
+</details>
