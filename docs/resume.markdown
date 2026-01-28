@@ -33,6 +33,11 @@ Git • GitHub • CI/CD • Static Site Generators (Jekyll, GitHub Pages) • C
 ---
 ## Experience
 
+### Technical Copywriter (Warp)
+*Remote | 2025–Present*
+
+First technical copywriter at Warp, embedded in Growth team’s DevEx pod to support developer enablement, adoption, and enterprise readiness through documentation and technical content. 
+
 ### **Content Analyst** (Deloitte via A-Jour Net)
 *Remote | 2025–Present*  
 
