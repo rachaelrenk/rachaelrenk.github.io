@@ -4,26 +4,15 @@ title: "Canonical Technical Guide"
 date: 2026-01-28
 ---
 
-## Environments – Warp
-
+## "Environments" – Warp
+`👥 Developers` `🎯 Streamlined adoption` `📅 2025`
 **Helped developers use environments for agentic development with Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
-
-`👥 Developers` `🎯 Clarity + Streamlined adoption` `📅 2025`
-
-### View the Work
-
-<div class="artifact-links">
-  🔗 <a href="https://docs.warp.dev/platform/environments" target="_blank">View live documentation</a>
-  
-  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/Environments_Warp.pdf">View PDF</a>
-</div>
-
 
 ### Impact
 
 This conceptual, source-of-truth guide helps users understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
 
-### At a Glance
+### At a glance
 
 <div class="work-sample-grid">
   <div class="fact-card">
@@ -45,6 +34,14 @@ This conceptual, source-of-truth guide helps users understand when and how to us
     <strong>Tools</strong>
     <p>GitBook, Git, Markdown, Warp</p>
   </div>
+</div>
+
+### View the work
+
+<div class="artifact-links">
+  🔗 <a href="https://docs.warp.dev/platform/environments" target="_blank">View live documentation</a>
+  
+  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/Environments_Warp.pdf">View PDF</a>
 </div>
 
 <details>
