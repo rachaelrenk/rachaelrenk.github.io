@@ -8,7 +8,7 @@ date: 2026-01-28
 
 **Helped teams and developers use environments for agentic development in Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
 
-`👥 DevOps Engineers & Developers` `🎯 Streamlined adoption` `📅 2025`
+`👥 Developers` `🎯 Streamlined adoption` `📅 2025`
 
 ### Impact
 
@@ -19,7 +19,7 @@ This canonical, conceptual guide helped users understand when and how to use War
 <div class="work-sample-grid">
   <div class="fact-card">
     <strong>Audience</strong>
-    <p>DevOps engineers and developers</p>
+    <p>DevOps engineers and developers using the Warp platform</p>
   </div>
   
   <div class="fact-card">
