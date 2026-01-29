@@ -12,7 +12,7 @@ date: 2025-10-06
 
 ### Impact
 
-This structured documentation set earned strong feedback for improving onboarding efficiency and reducing support load for new GitHub Enterprise Cloud customers. By transforming a complex content landscape into a cohesive, sequentially-organized guide, the project enabled administrators to complete setup and configuration decisions with less reliance on support. I was recognized for leadership, organization, and ability to deliver a user-centered experience across a distributed team.
+This structured documentation set, aligned with the customer onboarding flow, earned positive feedback for improving onboarding efficiency and reducing support load for new GitHub Enterprise Cloud customers. By transforming a complex content landscape into a cohesive, sequentially-organized guide, the project enabled administrators to complete setup and make configuration decisions with less reliance on support. I was recognized for leadership, organization, and ability to deliver a user-centered experience across a distributed team.
 
 ### At a Glance
 
@@ -40,11 +40,6 @@ This structured documentation set earned strong feedback for improving onboardin
 
 ### View the Work
 
-<div class="artifact-links">
-  🔗 <a href="https://docs.github.com/en/enterprise-cloud@latest/enterprise-onboarding" target="_blank">View live documentation</a>
-  
-  📷 <a href="#screenshots">View screenshots</a>
-</div>
 
 <p><details id="screenshots"><summary><strong>Screenshot: Full guide structure</strong> (click to expand)</summary>
 <p>This screenshot shows the complete information architecture of the onboarding guide. The expanded left navigation menu displays categories and topics designed to guide users sequentially through initial setup.</p>
@@ -55,11 +50,11 @@ This structured documentation set earned strong feedback for improving onboardin
 <details>
 <summary><strong>Behind the work</strong> (click to expand)</summary>
 
-<strong>Context:</strong>
+<p><strong>Context:</strong></p>
 
-GitHub Enterprise Cloud administrators faced a fragmented documentation experience that made initial setup unnecessarily complex. Without a cohesive onboarding path, customers frequently escalated to support for guidance on configuration decisions that could have been self-served with better documentation structure.
+<p>GitHub Enterprise Cloud administrators faced a fragmented documentation experience that made initial setup unnecessarily complex. Without a cohesive onboarding path, customers frequently escalated to support for guidance on configuration decisions that could have been self-served with better documentation structure.</p>
 
-<strong>Activities:</strong>
+<p><strong>Activities:</strong></p>
 
 <ul>
 <li>Partnered with content design to understand existing user research, customer pain points, and onboarding goals</li>

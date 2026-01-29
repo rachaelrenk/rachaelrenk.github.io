@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "Environments Documentation"
+title: "Conceptual Technical Article: Environments"
 date: 2026-01-28
 ---
 
-## Environments Documentation – Warp
+## Environments – Warp
 
-**Helped teams and developers use environments in Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
+**Helped teams and developers use environments for agentic development in Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
 
 `👥 DevOps Engineers & Developers` `🎯 Streamlined adoption` `📅 2025`
 
 ### Impact
 
-This 3,500-word conceptual guide helped developers and engineers understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
+This canonical, conceptual guide helped users understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
 
 ### At a Glance
 
 <div class="work-sample-grid">
   <div class="fact-card">
     <strong>Audience</strong>
-    <p>DevOps engineers and developers using Warp Platform automation</p>
+    <p>DevOps engineers and developers</p>
   </div>
   
   <div class="fact-card">
@@ -49,12 +49,12 @@ This 3,500-word conceptual guide helped developers and engineers understand when
 <details>
 <summary><strong>Behind the work</strong> (click to expand)</summary>
 
-<strong>Context:</strong>
-
+<p><strong>Context:</strong></p>
+<p>
 Environments in Warp ensure that ambient agents run with consistent Docker-based toolchains across triggers (Slack, Linear, GitHub, API). Without clear guidance, users struggled to understand when environments were needed versus local runs, how they differed from related platform concepts, and how to troubleshoot configuration issues.
-
-<strong>Activities:</strong>
-
+</p>
+<p><strong>Activities:</strong></p>
+<p>
 <ul>
 <li>Collaborated with product team to validate technical accuracy and align explanations with product vision</li>
 <li>Developed clear information architecture distinguishing environments from: execution hosts, agent profiles, rules, MCP servers, and per-run context</li>
@@ -64,5 +64,6 @@ Environments in Warp ensure that ambient agents run with consistent Docker-based
 <li>Structured complex runtime flow explanation to show what happens during automated runs</li>
 <li>Included concrete code examples for CLI commands and Docker setup patterns</li>
 </ul>
+</p>
 
 </details>
