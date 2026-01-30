@@ -5,7 +5,9 @@ date: 2025-10-06
 ---
 
 ## Enterprise Onboarding Guide – GitHub
+
 `👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2025`
+
 **Led creation of a comprehensive onboarding guide that reduced support load and accelerated self-serve setup for GitHub Enterprise Cloud administrators.**
 
 ### Impact
@@ -41,7 +43,7 @@ This structured documentation set, aligned with the customer onboarding flow, ea
 
 <p><details id="screenshots"><summary><strong>Screenshot: full guide structure</strong> (click to expand)</summary>
 <p>This screenshot shows the complete information architecture of the onboarding guide. The expanded left navigation menu displays categories and topics designed to guide users sequentially through initial setup.</p>
-<p><img src="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/screenshots/ghec_onboarding_github.png" style="border: 1px solid black" alt="Enterprise onboarding guide showing full navigation structure" /></p>
+<p><img src="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/screenshots/ghec_onboarding_github.png?raw=true" style="border: 1px solid black" alt="Enterprise onboarding guide showing the full information architecture and navigation menu" /></p>
 <p><i>Screenshot captured September 2025.</i></p>
 </details></p>
 

@@ -5,7 +5,9 @@ date: 2026-01-28
 ---
 
 ## "Environments" – Warp
+
 `👥 Developers` `🎯 Streamlined adoption` `📅 2025`
+
 **Helped developers use environments for agentic development with Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
 
 ### Impact
