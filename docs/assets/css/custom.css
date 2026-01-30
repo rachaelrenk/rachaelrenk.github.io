@@ -482,3 +482,99 @@ details[open] summary {
     text-align: center;
   }
 }
+
+/* --------------------------------------------
+   HOROSCOPE PAGE
+   -------------------------------------------- */
+
+.horoscope-container {
+  max-width: 700px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.horoscope-container h2 {
+  color: #0366d6;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.horoscope-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+  margin-bottom: 2rem;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.horoscope-text {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  font-style: italic;
+  margin: 0 0 1.5rem 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.horoscope-source {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+  opacity: 0.9;
+  font-style: normal;
+}
+
+.refresh-horoscope {
+  background: #0366d6;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(3, 102, 214, 0.3);
+}
+
+.refresh-horoscope:hover {
+  background: #0256c7;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(3, 102, 214, 0.4);
+}
+
+.refresh-horoscope:active {
+  transform: translateY(0);
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .horoscope-container {
+    margin: 2rem 1rem;
+  }
+  
+  .horoscope-card {
+    padding: 2rem 1.5rem;
+  }
+  
+  .horoscope-text {
+    font-size: 1.1rem;
+  }
+}
