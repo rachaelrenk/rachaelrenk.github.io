@@ -324,12 +324,54 @@ details[open] summary {
   color: #586069;
 }
 
+/* Skill Badges */
+.skill-badges {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.skill-badge {
+  background: #fff8c5;
+  color: #7d4e00;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border: 1px solid #d4a72c;
+}
+
 /* Job Summary */
 .job-summary {
   color: #24292e;
   line-height: 1.6;
   margin-bottom: 1rem;
   font-size: 1rem;
+}
+
+/* Recommendation Snippet */
+.recommendation-snippet {
+  background: #f6f8fa;
+  border-left: 3px solid #8250df;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+}
+
+.recommendation-snippet p:first-child {
+  color: #24292e;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.6;
+}
+
+.recommendation-snippet .recommender {
+  color: #586069;
+  font-size: 0.9rem;
+  margin: 0;
+  font-style: normal;
+  font-weight: 600;
 }
 
 /* Job Highlight */

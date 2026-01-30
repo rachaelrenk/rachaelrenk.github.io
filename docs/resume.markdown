@@ -59,6 +59,13 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     </div>
   </div>
   
+  <div class="skill-badges">
+    <span class="skill-badge">Technical Writing</span>
+    <span class="skill-badge">Developer Docs</span>
+    <span class="skill-badge">GitBook</span>
+    <span class="skill-badge">Markdown</span>
+  </div>
+  
   <p class="job-summary">First technical copywriter at Warp, embedded in the Growth team's DevEx pod to drive developer enablement, adoption, and enterprise readiness through documentation and technical content.</p>
 
   <div class="job-highlight">
@@ -79,6 +86,13 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
       <span class="date-badge">2025–Present</span>
       <span class="location-badge">Remote</span>
     </div>
+  </div>
+  
+  <div class="skill-badges">
+    <span class="skill-badge">CCMS</span>
+    <span class="skill-badge">DITA/XML</span>
+    <span class="skill-badge">Content Management</span>
+    <span class="skill-badge">Process Documentation</span>
   </div>
   
   <p class="job-summary">Provide content management and production support to ensure accurate, consistent, high-quality information across Deloitte Global's knowledge assets.</p>
@@ -114,6 +128,15 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     </div>
   </div>
   
+  <div class="skill-badges">
+    <span class="skill-badge">Docs-as-Code</span>
+    <span class="skill-badge">Git/GitHub</span>
+    <span class="skill-badge">Markdown</span>
+    <span class="skill-badge">CI/CD</span>
+    <span class="skill-badge">Content Strategy</span>
+    <span class="skill-badge">AI-assisted Tools</span>
+  </div>
+  
   <p class="job-summary">Created and managed documentation across complex SaaS products for technical and non-technical audiences. Delivered scalable, user-centered content and drove process improvements in a docs-as-code environment.</p>
 
   <details>
@@ -128,6 +151,11 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <p><strong>Impact:</strong> Enhanced documentation velocity and quality; automated workflows, reducing review overhead and improving collaboration.</p>
     <p><strong>Tools:</strong> Git, GitHub, CI/CD, Markdown, JSON, YAML, Liquid, AI-assisted tools</p>
   </details>
+
+  <div class="recommendation-snippet">
+    <p>"Rachael is a stellar technical writer, teammate, and leader. She's been a strategic thinker and effective partner... She raises the bar for quality through her own work and by coaching others."</p>
+    <p class="recommender">— Callie Buruchara, Senior Content Designer, GitHub</p>
+  </div>
 
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
@@ -153,6 +181,14 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     </div>
   </div>
   
+  <div class="skill-badges">
+    <span class="skill-badge">Proposal Development</span>
+    <span class="skill-badge">Technical Writing</span>
+    <span class="skill-badge">Project Management</span>
+    <span class="skill-badge">Strategic Messaging</span>
+    <span class="skill-badge">Compliance</span>
+  </div>
+  
   <p class="job-summary">Led end-to-end proposal development for government technology procurements. Partnered with cross-functional teams to deliver compliant, compelling bids that secured hundreds of millions in awarded contracts.</p>
 
   <details>
@@ -168,6 +204,11 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <p><strong>Impact:</strong> Delivered dozens of high-impact proposals that secured hundreds of millions in awarded contracts.</p>
     <p><strong>Tools:</strong> Microsoft Office, Microsoft Project, SharePoint, Adobe Acrobat, SQL</p>
   </details>
+
+  <div class="recommendation-snippet">
+    <p>"Rachael is an exceptional writer... She delivers proposals of the highest caliber and is an integral piece of our bid team. She works collaboratively with subject matter experts to ensure all content is accurate and addresses the ask."</p>
+    <p class="recommender">— Ashley Enos, Senior Proposal Manager, Fast Enterprises</p>
+  </div>
 
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
@@ -189,9 +230,160 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     </div>
   </div>
   
+  <div class="skill-badges">
+    <span class="skill-badge">Curriculum Design</span>
+    <span class="skill-badge">Instruction</span>
+    <span class="skill-badge">Assessment</span>
+    <span class="skill-badge">Technical Communication</span>
+  </div>
+  
   <p class="job-summary">Designed and taught undergraduate technical communication courses as adjunct instructor. Developed curriculum, learning materials, and assessments to teach foundational concepts in technical and business communication.</p>
 
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
     <ul>
-      <li><a href="https://docs.google.com/presentation/d/1k52FFbA8hNsY8NfxR-upDSpSOx-fHuib/edit?usp=sharing&ouid=107164642269294871698&rtpof=true&sd=true" target="_blank">CRAP: or, the Fundamentals of Design</a> – Lecture on design principles fo
+      <li><a href="https://docs.google.com/presentation/d/1k52FFbA8hNsY8NfxR-upDSpSOx-fHuib/edit?usp=sharing&ouid=107164642269294871698&rtpof=true&sd=true" target="_blank">CRAP: or, the Fundamentals of Design</a> – Lecture on design principles for technical communicators</li>
+    </ul>
+  </div>
+</div>
+
+<div class="job-card">
+  <div class="job-header">
+    <div class="job-title-company">
+      <h3>Training Coordinator</h3>
+      <p class="company">Fast Enterprises</p>
+    </div>
+    <div class="job-meta">
+      <span class="date-badge">2017–2018</span>
+      <span class="location-badge">Olympia, WA</span>
+    </div>
+  </div>
+  
+  <div class="skill-badges">
+    <span class="skill-badge">Training Development</span>
+    <span class="skill-badge">Instructional Design</span>
+    <span class="skill-badge">Adobe Captivate</span>
+    <span class="skill-badge">Train-the-Trainer</span>
+    <span class="skill-badge">SQL</span>
+  </div>
+  
+  <p class="job-summary">Developed and delivered technical training programs supporting Washington State Department of Licensing system modernization (DRIVES project).</p>
+
+  <details>
+    <summary><strong>Activities & Impact</strong></summary>
+    <ul>
+      <li>Analyzed training needs and designed training plans for end users across multiple business units</li>
+      <li>Coached and prepared client trainers through train-the-trainer program</li>
+      <li>Created instructor-led training guides, exercises, quick reference materials, and software simulations</li>
+      <li>Coordinated training logistics and schedules across multiple client locations</li>
+      <li>Maintained and updated training documentation; integrated user and SME feedback</li>
+    </ul>
+    <p><strong>Impact:</strong> Strengthened client self-sufficiency by equipping state employees to train their own teams, ensuring sustainable system adoption and smoother statewide rollout.</p>
+    <p><strong>Tools:</strong> SQL, Microsoft Office, SharePoint, Adobe Captivate</p>
+  </details>
+
+  <div class="recommendation-snippet">
+    <p>"Rachael is a stellar employee and a great fit for our team. She is smart and picks up new material very quickly... She works collaboratively and ensures she has accurate information to include in training materials."</p>
+    <p class="recommender">— Ashley Enos, Senior Proposal Manager, Fast Enterprises</p>
+  </div>
+</div>
+
+<div class="job-card">
+  <div class="job-header">
+    <div class="job-title-company">
+      <h3>Information Developer</h3>
+      <p class="company">Aquent (contract to HP)</p>
+    </div>
+    <div class="job-meta">
+      <span class="date-badge">2014–2017</span>
+      <span class="location-badge">Boise, ID</span>
+    </div>
+  </div>
+  
+  <div class="skill-badges">
+    <span class="skill-badge">Technical Writing</span>
+    <span class="skill-badge">CMS (Vasont)</span>
+    <span class="skill-badge">XML</span>
+    <span class="skill-badge">Adobe Captivate</span>
+    <span class="skill-badge">Localization</span>
+  </div>
+  
+  <p class="job-summary">Created and maintained technical documentation for HP's commercial printers and multifunction devices. Worked cross-functionally with SMEs, graphic designers, and localization teams to deliver high-quality content for end users and service professionals.</p>
+
+  <details>
+    <summary><strong>Activities & Impact</strong></summary>
+    <ul>
+      <li>Planned, drafted, edited, and published technical documentation for hardware and software products</li>
+      <li>Developed user guides, service manuals, quick starts, online help topics, and installation guides for global audiences</li>
+      <li>Created on-device "walk-up" help and interactive software simulations using Adobe Captivate</li>
+      <li>Produced structured, XML-based documentation in CMS platforms, ensuring accurate, consistent, translation-ready content</li>
+      <li>Validated technical accuracy through hands-on testing and SME collaboration</li>
+    </ul>
+    <p><strong>Impact:</strong> Delivered clear, accurate documentation with focus on user needs and localization.</p>
+    <p><strong>Tools:</strong> CMS (Vasont, Documentum), XML, Adobe Acrobat, Adobe Captivate, Microsoft Office</p>
+  </details>
+
+  <div class="recommendation-snippet">
+    <p>"Rachael is an excellent writer. She has a great attitude and is eager to learn. Rachael is easy to work with and always does whatever she can to help the team... She is very conscientious and detail-oriented."</p>
+    <p class="recommender">— Elaine Gilliam, Technical Writer, HP</p>
+  </div>
+
+  <div class="job-highlight">
+    <strong>📄 Featured Work</strong>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/1kQORQmh3Qnk59OjtQrfQLf8kUzUiu9-f/view?usp=sharing" target="_blank">HP LaserJet MFP Service Manual</a></li>
+      <li><a href="https://drive.google.com/file/d/10dGZ69XDq9eM4c9vLdAiIE2x8uB7p2Zf/view?usp=sharing" target="_blank">Manage users as an administrator</a> (JetAdvantage online help)</li>
+      <li><a href="https://drive.google.com/file/d/1OIkes4C-7qHXTlfThu0K_UEwz3Bofaae/view?usp=sharing" target="_blank">Company administrator overview</a> (JetAdvantage online help)</li>
+    </ul>
+  </div>
+</div>
+
+<div class="job-card">
+  <div class="job-header">
+    <div class="job-title-company">
+      <h3>Technical Writing Intern</h3>
+      <p class="company">Aquent (contract to HP)</p>
+    </div>
+    <div class="job-meta">
+      <span class="date-badge">2013</span>
+      <span class="location-badge">Boise, ID</span>
+    </div>
+  </div>
+  
+  <div class="skill-badges">
+    <span class="skill-badge">Technical Writing</span>
+    <span class="skill-badge">XML</span>
+    <span class="skill-badge">CMS</span>
+    <span class="skill-badge">Structured Authoring</span>
+  </div>
+  
+  <p class="job-summary">Gained hands-on experience creating technical documentation for HP printers using structured-authoring principles, XML, and CMS platforms. Assisted senior technical writers with content development, editing, and publishing. Also served as hand model for setup and installation videos.</p>
+</div>
+
+</div>
+
+---
+
+## Education {#education}
+
+<div class="education-grid">
+  
+  <div class="education-card">
+    <h3>Master of Arts in Technical Communication</h3>
+    <p class="school">Boise State University</p>
+    <p class="year">2017</p>
+  </div>
+
+  <div class="education-card">
+    <h3>Bachelor of Arts in English, Technical Communication</h3>
+    <p class="school">Boise State University</p>
+    <p class="year">2014</p>
+  </div>
+
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 3rem;">
+  <a href="/" style="font-size: 1.1rem;">← Back to portfolio</a>
+</div>
