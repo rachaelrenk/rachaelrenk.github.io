@@ -286,7 +286,7 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   <div class="job-header">
     <div class="job-title-company">
       <h3>Information Developer</h3>
-      <p class="company">Aquent (contract to HP)</p>
+      <p class="company">Aquent (HP contract)</p>
     </div>
     <div class="job-meta">
       <span class="date-badge">2014–2017</span>
