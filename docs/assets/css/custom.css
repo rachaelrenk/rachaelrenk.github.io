@@ -199,3 +199,244 @@ details[open] summary {
     align-self: flex-start;
   }
 }
+
+/* Resume Navigation */
+.resume-nav {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.resume-nav a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: 2px solid #0366d6;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.resume-nav a:hover {
+  background: #0366d6;
+  color: white;
+}
+
+/* Skills Grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.skill-category {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1.5rem;
+  background: #f6f8fa;
+}
+
+.skill-category h3 {
+  color: #0366d6;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.skill-category p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+/* Experience Timeline */
+.experience-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+/* Job Card */
+.job-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 2rem;
+  background: #ffffff;
+  transition: all 0.2s;
+}
+
+.job-card:hover {
+  border-color: #0366d6;
+  box-shadow: 0 4px 12px rgba(3, 102, 214, 0.1);
+}
+
+/* Job Header */
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.job-title-company h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.3rem;
+  color: #24292e;
+}
+
+.job-title-company .company {
+  margin: 0;
+  color: #0366d6;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+/* Job Meta Badges */
+.job-meta {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.date-badge,
+.location-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.date-badge {
+  background: #ddf4ff;
+  color: #0969da;
+}
+
+.location-badge {
+  background: #f6f8fa;
+  color: #586069;
+}
+
+/* Job Summary */
+.job-summary {
+  color: #24292e;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+/* Job Highlight */
+.job-highlight {
+  background: #f6f8fa;
+  border-left: 3px solid #0366d6;
+  padding: 1rem 1.5rem;
+  margin-top: 1rem;
+  border-radius: 0 6px 6px 0;
+}
+
+.job-highlight strong {
+  display: block;
+  color: #0366d6;
+  margin-bottom: 0.5rem;
+}
+
+.job-highlight ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.job-highlight li {
+  margin-bottom: 0.5rem;
+}
+
+/* Details/Summary for Activities */
+.job-card details {
+  margin-top: 1rem;
+  border-top: 1px solid #e1e4e8;
+  padding-top: 1rem;
+}
+
+.job-card details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #586069;
+  user-select: none;
+  padding: 0.5rem 0;
+}
+
+.job-card details summary:hover {
+  color: #0366d6;
+}
+
+.job-card details[open] summary {
+  margin-bottom: 1rem;
+  color: #0366d6;
+}
+
+.job-card details ul {
+  padding-left: 1.5rem;
+  line-height: 1.8;
+}
+
+.job-card details li {
+  margin-bottom: 0.5rem;
+}
+
+/* Education Grid */
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.education-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1.5rem;
+  background: #ffffff;
+}
+
+.education-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  color: #24292e;
+}
+
+.education-card .school {
+  margin: 0;
+  color: #0366d6;
+  font-weight: 600;
+}
+
+.education-card .year {
+  margin: 0.25rem 0 0 0;
+  color: #586069;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .job-header {
+    flex-direction: column;
+  }
+  
+  .job-meta {
+    width: 100%;
+  }
+  
+  .resume-nav {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .resume-nav a {
+    text-align: center;
+  }
+}
