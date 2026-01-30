@@ -153,8 +153,8 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   </details>
 
   <div class="recommendation-snippet">
-    <p>"Rachael is a stellar technical writer, teammate, and leader. She's been a strategic thinker and effective partner... She raises the bar for quality through her own work and by coaching others."</p>
-    <p class="recommender">— Callie Buruchara, Senior Content Designer, GitHub</p>
+    <p>"Anyone would be lucky to have Rachael on their team. She brings a rare combination of precision, creativity, and strategic thinking to her work - all while maintaining incredible humility and professionalism."</p>
+    <p class="recommender">— Alex N., Program Manager, GitHub</p>
   </div>
 
   <div class="job-highlight">
@@ -206,8 +206,8 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   </details>
 
   <div class="recommendation-snippet">
-    <p>"Rachael is an exceptional writer... She delivers proposals of the highest caliber and is an integral piece of our bid team. She works collaboratively with subject matter experts to ensure all content is accurate and addresses the ask."</p>
-    <p class="recommender">— Ashley Enos, Senior Proposal Manager, Fast Enterprises</p>
+    <p>"Rachael is Team Clydesdale (AKA Team Get Stuff Done.)"</p>
+    <p class="recommender">— My former manager at FAST</p>
   </div>
 
   <div class="job-highlight">
@@ -282,12 +282,6 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <p><strong>Tools:</strong> SQL, Microsoft Office, SharePoint, Adobe Captivate</p>
   </details>
 
-  <div class="recommendation-snippet">
-    <p>"Rachael is a stellar employee and a great fit for our team. She is smart and picks up new material very quickly... She works collaboratively and ensures she has accurate information to include in training materials."</p>
-    <p class="recommender">— Ashley Enos, Senior Proposal Manager, Fast Enterprises</p>
-  </div>
-</div>
-
 <div class="job-card">
   <div class="job-header">
     <div class="job-title-company">
@@ -322,11 +316,6 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <p><strong>Impact:</strong> Delivered clear, accurate documentation with focus on user needs and localization.</p>
     <p><strong>Tools:</strong> CMS (Vasont, Documentum), XML, Adobe Acrobat, Adobe Captivate, Microsoft Office</p>
   </details>
-
-  <div class="recommendation-snippet">
-    <p>"Rachael is an excellent writer. She has a great attitude and is eager to learn. Rachael is easy to work with and always does whatever she can to help the team... She is very conscientious and detail-oriented."</p>
-    <p class="recommender">— Elaine Gilliam, Technical Writer, HP</p>
-  </div>
 
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
