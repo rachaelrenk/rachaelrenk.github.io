@@ -94,7 +94,7 @@ Things are under construction around here, so check back often for updates. âœŒï
 
   <div class="portfolio-card">
     <div class="card-header">
-      <h3><a href="2025/09/30/process-documentation.html">Plurality Process Documentation</a></h3>
+      <h3><a href="2025/09/30/internal-process.html">Plurality Process Documentation</a></h3>
       <span class="card-tag">Process Documentation</span>
     </div>
     <p class="card-company">Deloitte</p>

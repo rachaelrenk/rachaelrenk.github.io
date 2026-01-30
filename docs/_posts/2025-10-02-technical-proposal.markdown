@@ -6,7 +6,7 @@ date: 2025-10-02
 
 ## Ohio Tax Modernization Proposal – Fast Enterprises
 
-`👥 State Evaluators & Decision Makers` `🎯 Won $50M+ contract` `📅 2022`
+`👥 State Evaluators` `🎯 Won $50M+ contract` `📅 2022`
 
 **Led development of a winning $50M+ proposal to modernize Ohio's personal income tax system, demonstrating technical expertise and compliance across a complex RFP.**
 
@@ -43,7 +43,7 @@ Fast Enterprises was awarded the contract to modernize Ohio's personal income ta
 ### View the Work
 
 <div class="artifact-links">
-  🔗 <a href="https://drive.google.com/file/d/1-PUeQy8t0RrDUg91sIYaUipwoZcR4ihl/view?usp=drive_link" target="_blank">View proposal</a>
+  🔗 <a href="https://drive.google.com/file/d/1-PUeQy8t0RrDUg91sIYaUipwoZcR4ihl/view?usp=drive_link" target="_blank">View PDF</a>
 </div>
 
 <p><strong>Note:</strong> This proposal contains proprietary and confidential information. In the version provided here, proprietary information has been redacted.</p>

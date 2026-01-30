@@ -43,9 +43,9 @@ This initiative streamlined the GHES release notes process, improved publishing 
 <div class="artifact-links">
   🔗 <a href="https://docs.github.com/en/enterprise-server@3.16/admin/release-notes#3.16.0" target="_blank">View live documentation</a>
   
-  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/ghes-release-notes.pdf target="_blank">View PDF</a>
+  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/ghes-release-notes.pdf"  target="_blank">View PDF</a>
   
-  📷 <a href="#screenshots">View screenshots</a>
+ 
 </div>
 
 <p><details id="screenshots"><summary><strong>Screenshots</strong> (click to expand)</summary>

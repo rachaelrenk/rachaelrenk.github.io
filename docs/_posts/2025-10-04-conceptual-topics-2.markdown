@@ -44,8 +44,6 @@ These two conceptual topics helped enterprise administrators confidently navigat
   📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/setting-up-a-trial-ghec.pdf" target="_blank">View "Setting up a trial" PDF</a>
   
   📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/ending-a-trial-ghec.pdf" target="_blank">View "Ending a trial" PDF</a>
-  
-  📷 <a href="#screenshots">View screenshots</a>
 </div>
 
 <p>

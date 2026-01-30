@@ -6,9 +6,9 @@ date: 2025-10-05
 
 ## Finding the Object ID for Your Entra OIDC Application – GitHub
 
-**Reduced setup friction and support escalations by documenting a critical but previously undocumented prerequisite for OIDC token configuration.**
+`👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2024`
 
-`👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2025`
+**Reduced setup friction and support escalations by documenting a critical but previously undocumented prerequisite for OIDC token configuration.**
 
 ### Impact
 
@@ -44,8 +44,6 @@ This procedural article filled a critical documentation gap for enterprise admin
   🔗 <a href="https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/configuring-authentication-for-enterprise-managed-users/finding-the-object-id-for-your-entra-oidc-application" target="_blank">View live documentation</a>
   
   📷 <a href="https://github.com/rachaelrenk/rachaelrenk/blob/678cd4c94a5698823731ee740c02534ac820adca/images/Finding-the-object-ID-for-your-Entra-OIDC-application-GHEC.pdf" target="_blank">View PDF</a>
-  
-  📷 <a href="#screenshots">View screenshots</a>
 </div>
 
 <p><details id="screenshots"><summary><strong>Screenshots</strong> (click to expand)</summary>

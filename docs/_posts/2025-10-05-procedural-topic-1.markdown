@@ -6,9 +6,9 @@ date: 2025-10-05
 
 ## Setting Up an Organization – GitHub
 
-**Improved task success during enterprise setup by clarifying a complex, conditional process for establishing organizational structure and ownership.**
-
 `👥 Enterprise Admins` `🎯 Reduced support dependency` `📅 2025`
+
+**Improved task success during enterprise setup by clarifying a complex, conditional process for establishing organizational structure and ownership.**
 
 ### Impact
 
@@ -42,8 +42,6 @@ This procedural article became a key reference in the enterprise onboarding flow
 
 <div class="artifact-links">
   📷 <a href="https://github.com/rachaelrenk/rachaelrenk/blob/eb14eb14dab1e665dd9aa9061f4cfeed95db7af2/images/setting-up-an-organization.pdf" target="_blank">View PDF</a>
-  
-  📷 <a href="#screenshots">View screenshot</a>
 </div>
 
 <p><details id="screenshots"><summary><strong>Screenshot</strong> (click to expand)</summary>
