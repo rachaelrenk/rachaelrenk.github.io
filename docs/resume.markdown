@@ -31,7 +31,7 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   
   <div class="skill-category">
     <h3>Core Competencies</h3>
-    <p>Technical Writing & Editing • Content Design • Information Architecture • Content Strategy & Governance • Style Guide Development • Content Management • UX Writing • Accessibility & Plain Language • Cross-functional Collaboration • Process Improvement • Remote First & Asynchronous Work</p>
+    <p>Technical Writing & Editing • Content Design • Information Architecture • Docs-as-Code • Content Strategy & Governance • Style Guide Development • Content Management • UX Writing • Accessibility & Plain Language • Cross-functional Collaboration • Process Improvement • Remote First & Asynchronous Work</p>
   </div>
 
   <div class="skill-category">
