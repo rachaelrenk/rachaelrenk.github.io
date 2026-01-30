@@ -281,6 +281,7 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <p><strong>Impact:</strong> Strengthened client self-sufficiency by equipping state employees to train their own teams, ensuring sustainable system adoption and smoother statewide rollout.</p>
     <p><strong>Tools:</strong> SQL, Microsoft Office, SharePoint, Adobe Captivate</p>
   </details>
+</div>
 
 <div class="job-card">
   <div class="job-header">
