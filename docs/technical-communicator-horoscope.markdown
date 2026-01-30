@@ -35,7 +35,7 @@ order: 4
       source: "Co-Star"
     },
     {
-      text: "You channel your ambition into communication, mental pursuits, and the exchange of ideas, and you show a kind of intellectual courage.",
+      text: "You channel your ambition into communication, mental pursuits, and the exchange of ideas, showing your intellectual courage.",
       source: "The Pattern"
     },
     {
