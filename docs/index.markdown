@@ -26,7 +26,7 @@ Things are under construction around here, so check back often for updates. âœŒï
     <span class="card-tag">Content System</span>
   </div>
   <p class="card-company">Warp</p>
-  <p class="card-description">Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform.</p>
+  <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
   </div>
 
   <div class="portfolio-card">
