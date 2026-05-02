@@ -56,7 +56,23 @@ These components work together as a single pipeline: content is created using te
 
 The result is a documentation system that scales with the product—reducing manual review, improving consistency, and enabling both humans and AI agents to contribute effectively.
 
-### System diagram
+#### Key components
+
+**Drafting workflow**: A shared, repeatable process that guides every documentation update—from identifying the right content type to drafting, validating, and preparing changes for review.
+
+**Templates (content types)**: Structured Markdown templates for conceptual, procedural, quickstart, and reference content. Each template embeds guidance so authors start with the right structure instead of a blank page.
+
+**Validation**: Automated checks that enforce formatting, terminology, and UI accuracy before content is merged, reducing reliance on manual review.
+
+**Sources of truth**:A centralized style guide and terminology glossary that define how documentation should be written, formatted, and named across the system.
+
+**Terminology sync**: A background process that keeps the glossary aligned with an upstream source, ensuring consistent product language as the platform evolves.
+
+**Published documentation**: The final output of the system—consistent, structured, and continuously maintained documentation that scales with both the product and the team.
+
+📸 View components live in [Warp's open-source docs repo](https://github.com/warpdotdev/docs/tree/main/.warp).
+
+#### System diagram
 
 
 ```markdown
@@ -95,25 +111,6 @@ flowchart TD
 
     E -. feedback loop .-> B
 ```
-#### Key components
-
-**Drafting workflow**
-A shared, repeatable process that guides every documentation update—from identifying the right content type to drafting, validating, and preparing changes for review.
-
-**Templates (content types)**
-Structured Markdown templates for conceptual, procedural, quickstart, and reference content. Each template embeds guidance so authors start with the right structure instead of a blank page.
-
-**Validation**
-Automated checks that enforce formatting, terminology, and UI accuracy before content is merged, reducing reliance on manual review.
-
-**Sources of truth**
-A centralized style guide and terminology glossary that define how documentation should be written, formatted, and named across the system.
-
-**Terminology sync**
-A background process that keeps the glossary aligned with an upstream source, ensuring consistent product language as the platform evolves.
-
-**Published documentation**
-The final output of the system—consistent, structured, and continuously maintained documentation that scales with both the product and the team.
 
 <details>
 <summary><strong>Behind the work</strong> (click to expand)</summary>
