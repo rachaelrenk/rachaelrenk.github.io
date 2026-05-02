@@ -22,9 +22,7 @@ Things are under construction around here, so check back often for updates. âœŒï
   
   <div class="portfolio-card">
   <div class="card-header">
-    ```html
-    <div class="card-header">
-      <h3><a href="/docs/2026/05/02/content-system-warp.html">Documentation Content System</a></h3>
+      <h3><a href="/2026/05/02/content-system-warp.html">Documentation Content System</a></h3>
       <span class="card-tag">Content System</span>
     </div>
     ```<h3><a href="2026/05/01/content-system-warp.html">Documentation Content System</a></h3>
