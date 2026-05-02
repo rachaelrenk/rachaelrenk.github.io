@@ -24,10 +24,6 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="card-header">
       <h3><a href="/2026/05/02/content-system-warp.html">Documentation Content System</a></h3>
       <span class="card-tag">Content System</span>
-    </div>
-    ```<h3><a href="2026/05/01/content-system-warp.html">Documentation Content System</a></h3>
-    <span class="card-tag">Content System</span>
-  </div>
   <p class="card-company">Warp</p>
   <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
   </div>
