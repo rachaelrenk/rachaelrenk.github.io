@@ -75,7 +75,7 @@ The result is a documentation system that scales with the product—reducing man
 #### System diagram
 
 <figure>
-  <img src="/assets/images/content-system-diagram.png" alt="Warp Documentation System Diagram" width="800"/>
+  <img src="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/2edc1d5bd7ccfbf3eae0d1e718406ab439b51ad4/docs/assets/images/content-system-diagram.png" alt="Warp Documentation System Diagram" width="800"/>
   <figcaption>System diagram showing the components of the Warp documentation system and how they interact.</figcaption>
 </figure>
 
