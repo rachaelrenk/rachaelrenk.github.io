@@ -24,17 +24,17 @@ This system transformed documentation from a manual, writer-dependent process in
   
   <div class="fact-card">
     <strong>Goal</strong>
-    <p>Create a scalable system for producing consistent, high-quality documentation</p>
+    <p>Create a scalable system for producing consistently high-quality docs</p>
   </div>
   
   <div class="fact-card">
     <strong>Collaboration</strong>
-    <p>Engineering, Growth, Product</p>
+    <p>Engineering, Growth, DevEx</p>
   </div>
   
   <div class="fact-card">
     <strong>Tools</strong>
-    <p>Git, Warp, Python, internal tooling</p>
+    <p>Warp (agentic AI), Git, Python, internal tooling</p>
   </div>
 </div>
 
