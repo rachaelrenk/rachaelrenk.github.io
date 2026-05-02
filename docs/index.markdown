@@ -21,6 +21,15 @@ Things are under construction around here, so check back often for updates. âœŒï
 <div class="portfolio-grid">
   
   <div class="portfolio-card">
+  <div class="card-header">
+    <h3><a href="2026/05/01/content-system-warp.html">Documentation Content System</a></h3>
+    <span class="card-tag">Content System</span>
+  </div>
+  <p class="card-company">Warp</p>
+  <p class="card-description">Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform.</p>
+  </div>
+
+  <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2026/01/28/environments-warp.html">Environments</a></h3>
       <span class="card-tag">Canonical Guide</span>
