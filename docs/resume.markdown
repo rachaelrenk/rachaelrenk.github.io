@@ -60,10 +60,12 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   </div>
   
   <div class="skill-badges">
+    <span class="skill-badge">Docs-as-Code (Git, Markdown, CI/CD)</span>
     <span class="skill-badge">Technical Writing</span>
+    <span class="skill-badge">Content Strategy</span>
+    <span class="skill-badge">Information Architecture</span>
     <span class="skill-badge">Developer Docs</span>
     <span class="skill-badge">AI</span>
-    <span class="skill-badge">Docs-as-code</span>
   </div>
   
   <p class="job-summary">First technical copywriter at Warp, embedded in the Growth team's DevEx pod to drive developer enablement, adoption, and enterprise readiness through documentation and technical content.</p>
@@ -135,7 +137,8 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <span class="skill-badge">Markdown</span>
     <span class="skill-badge">CI/CD</span>
     <span class="skill-badge">Content Strategy</span>
-    <span class="skill-badge">AI-assisted Tools</span>
+    <span class="skill-badge">Information Architecture</span>
+    <span class="skill-badge">AI</span>
   </div>
   
   <p class="job-summary">Created and managed documentation across complex SaaS products for technical and non-technical audiences. Delivered scalable, user-centered content and drove process improvements in a docs-as-code environment.</p>
