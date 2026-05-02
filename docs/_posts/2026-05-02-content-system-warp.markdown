@@ -74,43 +74,10 @@ The result is a documentation system that scales with the product—reducing man
 
 #### System diagram
 
-
-```markdown
-```mermaid
-flowchart TD
-
-    subgraph Input
-        A["Request<br/>(Human or AI agent)"]
-    end
-
-    subgraph Authoring
-        B["Drafting workflow"]
-        C["Templates"]
-    end
-
-    subgraph Quality
-        D["Validation"]
-        F["Sources of truth"]
-    end
-
-    subgraph Output
-        E["Published documentation"]
-    end
-
-    G["Terminology sync"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-
-    F --> B
-    F --> D
-
-    G --> F
-
-    E -. feedback loop .-> B
-```
+<figure>
+  <img src="docs/assets/images/content-system-diagram.png" alt="Warp Documentation System Diagram" />
+  <figcaption>System diagram showing the components of the Warp documentation system and how they interact.</figcaption>
+</figure>
 
 <details>
 <summary><strong>Behind the work</strong> (click to expand)</summary>
