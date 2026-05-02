@@ -6,9 +6,9 @@ order: 1
 
 **Hi, I'm Rachael.** Welcome to my portfolio.
 
-I'm a user advocate, communication nerd, content strategist,and technical writer. I care deeply about human-centered design and building systems that turn complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work (it might even spark delight).
+I'm a user advocate, communication nerd, content strategist,and technical writer. I care deeply about human-centered design and creating systems that turn complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work (it might even spark delight).
 
-Since 2014, I've created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. In more recent years, I've focused on designing content systems, shaping information architecture, and building tooling and workflows that keeps content evergreen as products evolve -- particularly in the fast-moving world of AI.
+Since 2014, I've created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. In more recent years, I've focused on designing content systems, shaping information architecture, and building tooling and workflows that keeps content evergreen as products evolve --- particularly in the fast-moving world of AI.
 
 This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback in past roles, a peek at my origin story, and an [experimental resume](/resume/). 
 
