@@ -30,6 +30,15 @@ Things are under construction around here, so check back often for updates. ✌�
   <p class="card-company">Warp</p>
   <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
   </div>
+
+  <div class="portfolio-card">
+    <div class="card-header">
+      <h3><a href="/2026/06/29/documentation-software-factory-warp.html">Documentation Software Factory</a></h3>
+      <span class="card-tag">System</span>
+    </div>
+    <p class="card-company">Warp</p>
+    <p class="card-description">Automated the documentation feedback cycle with scheduled AI agents, recurring audits, telemetry, and human review—so docs quality and discoverability improve continuously.</p>
+  </div>
 </div>
 
 ## Developer Documentation

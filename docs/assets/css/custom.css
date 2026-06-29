@@ -102,6 +102,61 @@ details[open] summary {
   border-bottom: 1px solid #e1e4e8;
 }
 
+/* Flow diagram (outer-loop pipeline) */
+.flow-diagram-figure {
+  margin: 2rem 0;
+}
+
+.flow-diagram {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.flow-step {
+  flex: 1 1 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #0366d6;
+  border-radius: 8px;
+  background: #f6f8fa;
+  color: #24292e;
+  font-weight: 600;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+.flow-step span {
+  font-weight: 400;
+  font-size: 0.78rem;
+  color: #586069;
+}
+
+.flow-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  color: #0366d6;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  .flow-diagram {
+    flex-direction: column;
+  }
+
+  .flow-arrow {
+    transform: rotate(90deg);
+  }
+}
+
 /* Portfolio grid */
 .portfolio-grid {
   display: grid;

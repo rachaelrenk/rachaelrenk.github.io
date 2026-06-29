@@ -103,4 +103,4 @@ The result is a documentation system that scales with the product—reducing man
 
 ### Related projects
 
-(future links)
+* [Documentation Software Factory](/2026/06/29/documentation-software-factory-warp.html) — how this operating system stays current through automated, continuously improving outer loops.
