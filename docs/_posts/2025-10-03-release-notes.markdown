@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Release Notes"
+title: "GitHub Enterprise Server Release Notes"
 date: 2025-10-03
 ---
-
-## Enterprise Server 3.16 Release Notes – GitHub
 
 `👥 Enterprise Admins & Developers` `🎯 Improved publishing efficiency` `📅 2025`
 

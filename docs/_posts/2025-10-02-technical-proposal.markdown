@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Technical Proposal"
+title: "Ohio Tax Modernization Proposal"
 date: 2025-10-02
 ---
-
-## Ohio Tax Modernization Proposal – Fast Enterprises
 
 `👥 State Evaluators` `🎯 Won $50M+ contract` `📅 2022`
 

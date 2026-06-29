@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "UX Writing Article"
+title: "Plain Language for UX Writing"
 date: 2025-10-01
 ---
-
-## Plain Language for UX Writing – UX Collective (Medium)
 
 `👥 UX Designers & Writers` `🎯 Featured in newsletter` `📅 2019`
 

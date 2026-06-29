@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Process Documentation"
+title: "Plurality Process Documentation"
 date: 2025-09-30
 ---
-
-## Plurality Process Documentation – Deloitte
 
 `👥 Content Teams` `🎯 Reduced errors & onboarding time` `📅 2025`
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Procedural Topic (2)"
+title: "Finding the Object ID for Entra OIDC"
 date: 2025-10-05
 ---
-
-## Finding the Object ID for Your Entra OIDC Application – GitHub
 
 `👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2024`
 

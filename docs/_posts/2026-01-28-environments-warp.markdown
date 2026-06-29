@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Canonical Technical Guide"
+title: "Environments"
 date: 2026-01-28
 ---
-
-## "Environments" – Warp
 
 `👥 Developers` `🎯 Streamlined adoption` `📅 2025`
 

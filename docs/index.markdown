@@ -8,7 +8,7 @@ order: 1
 
 I care deeply about designing systems that turn complexity into clarity and help people do meaningful work. I believe great documentation builds trust, saves time, and it might even spark delight.
 
-Since 2014, I've created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. 
+Since 2014, I've created accessible docs for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. 
 
 Currently, I build documentation infrastructure that helps developers adopt complex software. My work combines docs-as-code, information architecture, documentation engineering, and AI workflows to create scalable knowledge systems that evolve alongside engineering teams.
 
@@ -30,6 +30,7 @@ Things are under construction around here, so check back often for updates. âœŒï
   <p class="card-company">Warp</p>
   <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
   </div>
+</div>
 
 ## Developer Documentation
 
@@ -93,6 +94,8 @@ Things are under construction around here, so check back often for updates. âœŒï
 </div>
 
 ## Technical Communication
+
+<div class="portfolio-grid">
 
   <div class="portfolio-card">
     <div class="card-header">

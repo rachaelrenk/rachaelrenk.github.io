@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Onboarding Guide"
+title: "Enterprise Onboarding Guide"
 date: 2025-10-06
 ---
-
-## Enterprise Onboarding Guide – GitHub
 
 `👥 Enterprise Admins` `🎯 Reduced support tickets` `📅 2025`
 

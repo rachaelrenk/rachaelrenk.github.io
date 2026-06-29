@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Procedural Topic (1)"
+title: "Setting Up an Organization"
 date: 2025-10-05
 ---
-
-## Setting Up an Organization – GitHub
 
 `👥 Enterprise Admins` `🎯 Reduced support dependency` `📅 2025`
 

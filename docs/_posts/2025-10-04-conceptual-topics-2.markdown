@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Conceptual Topics"
+title: "Setting Up and Ending a Trial"
 date: 2025-10-04
 ---
-
-## Setting Up and Ending a Trial – GitHub
 
 `👥 Enterprise Admins` `🎯 Reduced friction and support tickets` `📅 2025`
 
