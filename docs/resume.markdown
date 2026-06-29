@@ -73,7 +73,7 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
     <ul>
-      <li><a href="/2026/05/02/content-system-warp.html">Docs content system</a> – Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform</li>
+      <li><a href="/2026/05/02/documentation-operating-system-warp.html">Docs content system</a> – Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform</li>
       <li><a href="/2026/01/28/environments-warp.html">Environments documentation</a> – Helped teams adopt environment configuration through clear conceptual documentation</li>
     </ul>
   </div>
