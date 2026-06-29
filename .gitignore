@@ -1,2 +1,8 @@
+# OS files
 .DS_Store
-_site/.DS_Store
+
+# Jekyll build output / caches (the live source + build live in docs/)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
