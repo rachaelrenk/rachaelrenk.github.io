@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Content System Design"
+title: "Documentation Operating System Design"
 date: 2026-05-02
 ---
 
-##  Docs Content System – Warp
+##  Docs Operating System – Warp
 
 `👥 Internal teams + AI agents` `🎯 Scalable, consistent docs` `📅 2026`
 

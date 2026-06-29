@@ -4,30 +4,37 @@ title:
 order: 1
 ---
 
-**Hi, I'm Rachael.** Welcome to my portfolio.
+**Hi, I'm Rachael.** Welcome to my website.
 
-I'm a user advocate, communication nerd, content strategist,and technical writer. I care deeply about human-centered design and creating systems that turn complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work (it might even spark delight).
+I care deeply about human-centered design and creating systems that turn complexity into clarity. I believe great documentation builds trust, saves time, and helps people do meaningful work (it might even spark delight).
 
-Since 2014, I've created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. In more recent years, I've focused on designing content systems, shaping information architecture, and building tooling and workflows that keeps content evergreen as products evolve --- particularly in the fast-moving world of AI.
+Since 2014, I've created accessible documentation for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. 
 
-This portfolio site is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback in past roles, a peek at my origin story, and an [experimental resume](/resume/). 
+Currently, I build documentation infrastructure that helps developers adopt complex software. My work combines docs-as-code, information architecture, documentation engineering, and AI workflows to create scalable knowledge systems that evolve alongside engineering teams.
+
+This website is built with Jekyll and GitHub Pages. Right now, it features samples of my work from across genres (see the list below), recommendations from leadership and peer feedback in past roles, a peek at my origin story, and an [experimental resume](/resume/). 
 
 Things are under construction around here, so check back often for updates. ✌️
 
 ---
 
-## Portfolio Highlights
+## Documentation Systems
 
 <div class="portfolio-grid">
   
   <div class="portfolio-card">
    <div class="card-header">
-      <h3><a href="/2026/05/02/content-system-warp.html">Documentation Content System</a></h3>
-      <span class="card-tag">Content System</span>
+      <h3><a href="/2026/05/02/content-system-warp.html">Documentation Operating System</a></h3>
+      <span class="card-tag">System</span>
     </div>
   <p class="card-company">Warp</p>
   <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
   </div>
+
+## Developer Documentation
+
+<div class="portfolio-grid">
+
 
   <div class="portfolio-card">
     <div class="card-header">
@@ -40,8 +47,8 @@ Things are under construction around here, so check back often for updates. ✌�
 
   <div class="portfolio-card">
     <div class="card-header">
-      <h3><a href="2025/10/03/release-notes.html">Enterprise Server 3.16 Release Notes</a></h3>
-      <span class="card-tag">Release Notes</span>
+      <h3><a href="2025/10/03/release-notes.html">GHES Release Notes</a></h3>
+      <span class="card-tag">Release Operations</span>
     </div>
     <p class="card-company">GitHub</p>
     <p class="card-description">Streamlined release documentation process and raised quality standards for major GHES releases.</p>
@@ -82,6 +89,10 @@ Things are under construction around here, so check back often for updates. ✌�
     <p class="card-company">GitHub</p>
     <p class="card-description">Improved self-service onboarding by providing clear guidance for critical trial decisions.</p>
   </div>
+
+</div>
+
+## Technical Communication
 
   <div class="portfolio-card">
     <div class="card-header">
