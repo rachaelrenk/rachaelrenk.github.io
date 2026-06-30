@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "R. Renk · Docs for the AI era"
+title: R. Renk
 email: rachaelrenk1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A technical communicator and documentation engineer.

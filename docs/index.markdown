@@ -6,7 +6,7 @@ order: 1
 
 **Hi, I'm Rachael.** Welcome to my website.
 
-I care deeply about designing systems that turn complexity into clarity and help people do meaningful work. I believe great documentation builds trust, saves time, and it might even spark delight.
+I design systems that turn complexity into clarity and help people do meaningful work. I believe great documentation builds trust, saves time, and it might even spark delight.
 
 Since 2014, I've created accessible docs for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. 
 
