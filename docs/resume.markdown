@@ -73,7 +73,9 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
     <ul>
-      <li><a href="/2026/05/02/documentation-operating-system-warp.html">Docs content system</a> – Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform</li>
+      <li><a href="/2026/05/02/documentation-operating-system-warp.html">Documentation Operating System</a> – Designed a docs-as-code system with templates, workflows, and automated validation to scale consistent, high-quality documentation across a rapidly evolving AI platform</li>
+      <li><a href="/2026/06/29/documentation-software-factory-warp.html">Documentation Software Factory</a> – Automated the documentation feedback loop with scheduled agents, recurring audits, and human review so quality keeps improving</li>
+      <li><a href="/2026/06/29/agent-friendly-docs-warp.html">Designing Agent-Friendly Documentation</a> – Adapted a modern docs system for AI-native workflows, designing for retrieval, reasoning, and reliable agent task completion</li>
       <li><a href="/2026/01/28/environments-warp.html">Environments documentation</a> – Helped teams adopt environment configuration through clear conceptual documentation</li>
     </ul>
   </div>
@@ -114,7 +116,7 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
     <ul>
-      <li><a href="/2025/09/30/process-documentation.html">Plurality process documentation</a> – Created first repeatable process for publication variants</li>
+      <li><a href="/2025/09/30/internal-process.html">Plurality process documentation</a> – Created first repeatable process for publication variants</li>
     </ul>
   </div>
 </div>

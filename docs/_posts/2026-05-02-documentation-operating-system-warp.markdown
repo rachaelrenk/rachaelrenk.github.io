@@ -40,7 +40,7 @@ This system transformed documentation from a manual, writer-dependent process in
 
 ### System overview
 
-The operating system treats docs as infrasctructure rather than individual pages. Every contributor, whetehr human or agent, uses the same workflows, templates, terminology, and validation systems. The resulting is a platform that produces consistent regardless of the author. 
+The operating system treats docs as infrastructure rather than individual pages. Every contributor, whether human or agent, uses the same workflows, templates, terminology, and validation systems. The result is a platform that produces consistent output regardless of the author.
 
 At a high level, the system combines:
 

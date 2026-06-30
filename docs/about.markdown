@@ -15,7 +15,7 @@ When I was 6, my family got our first PC, which came with Windows 95. I fastidio
 
 Dial-up internet followed a few years later, and with it, _extremely slow_ access to the rest of the world: email, message boards, IRC, and real websites. Now that I was connected, I wanted to build. Equipped with Notepad, Firefox, and library books, I taught myself HTML/XHTML, and later, CSS. I viewed the source code of every interesting website I found, and I coded my own sites from scratch. Then, I organized a class and taught HTML to the other kids in my homeschool co-op. 
 
-Yes, _homeschool_. I've always been an autodidact---and a bit of an non-conformist.
+Yes, _homeschool_. I've always been an autodidact, and a bit of a non-conformist.
 
 In addition to web design, reading and writing came naturally to me. I was born a bookworm and writer, and words fascinated me (one summer, I completed several grade levels of spelling and grammar just for fun. I flourish when I can work at my own pace.) I realized early on that writing was a powerful way to share information and ideas.
 

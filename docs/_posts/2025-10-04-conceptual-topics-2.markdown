@@ -17,7 +17,7 @@ These two conceptual topics helped enterprise administrators confidently navigat
 <div class="work-sample-grid">
   <div class="fact-card">
     <strong>Audience</strong>
-    <p>Enterprie admins and managers evaluating or trialing GitHub Enterprise Cloud</p>
+    <p>Enterprise admins and managers evaluating or trialing GitHub Enterprise Cloud</p>
   </div>
   
   <div class="fact-card">
