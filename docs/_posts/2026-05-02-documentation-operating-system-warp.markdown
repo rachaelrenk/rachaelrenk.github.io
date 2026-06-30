@@ -104,3 +104,4 @@ The result is a documentation system that scales with the product, reducing manu
 ### Related projects
 
 * [Documentation Software Factory](/2026/06/29/documentation-software-factory-warp.html): how this operating system stays current through automated, continuously improving outer loops.
+* [Designing Agent-Friendly Documentation](/2026/06/29/agent-friendly-docs-warp.html): the design principles that make this system's output usable by AI agents.

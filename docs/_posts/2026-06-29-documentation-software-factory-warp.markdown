@@ -99,3 +99,4 @@ Automation proposes; humans decide. Every outer-loop agent opens its work as a *
 ### Related projects
 
 * [Documentation Operating System](/2026/05/02/documentation-operating-system-warp.html): the architecture, workflows, templates, and validation that the Software Factory keeps current.
+* [Designing Agent-Friendly Documentation](/2026/06/29/agent-friendly-docs-warp.html): the design principles the factory's evaluations measure and improve.
