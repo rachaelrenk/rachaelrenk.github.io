@@ -56,7 +56,7 @@ This procedural article filled a critical documentation gap for enterprise admin
 
 <p><strong>>Context:</strong></p>
 
-<p>Enterprise administrators configuring Enterprise Managed Users (EMU) with Microsoft Entra OIDC needed to locate the object ID for their OIDC application—a prerequisite for setting token lifetime policies. This essential step was undocumented, causing setup delays and support escalations. The article is part of the larger EMU documentation set, which helps administrators integrate external identity providers like Entra ID and PingFederate.</p>
+<p>Enterprise administrators configuring Enterprise Managed Users (EMU) with Microsoft Entra OIDC needed to locate the object ID for their OIDC application, a prerequisite for setting token lifetime policies. This essential step was undocumented, causing setup delays and support escalations. The article is part of the larger EMU documentation set, which helps administrators integrate external identity providers like Entra ID and PingFederate.</p>
 
 <p><strong>Activities:</strong></p>
 

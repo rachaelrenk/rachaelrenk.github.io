@@ -16,7 +16,7 @@ A documentation operating system establishes architecture, workflows, templates,
 * **Stale links** and broken redirects that erode trust
 * **Inconsistent terminology** creeping back in across contributors
 * **Declining discoverability** in search and navigation
-* **AI answerability gaps**—content humans can read but agents can't reliably use
+* **AI answerability gaps**, content humans can read but agents can't reliably use
 * **Manual maintenance** that scales with headcount instead of the product
 
 The operating system answers "how do we produce good docs?"; the Software Factory answers the harder follow-up: "how do we keep all of it good over time?"
@@ -68,12 +68,12 @@ The Software Factory is built on **outer loops**: a repeatable pattern where an 
 
 #### Core systems
 
-The really valuable part isn't any single audit—it's the architecture that coordinates a set of specialized agents so the whole platform improves over time.
+The really valuable part isn't any single audit: it's the architecture that coordinates a set of specialized agents so the whole platform improves over time.
 
-* **Outer loops**: The coordinating pattern. Inner loops emit signals; scheduled outer-loop agents read the accumulated signals and propose targeted edits to the underlying skills and templates, so improvements compound instead of resetting each cycle.
+* **Outer loops**: The coordinating pattern. Inner loops emit signals; [scheduled outer-loop agents](https://github.com/warpdotdev/docs/tree/main/.agents/skills/improve-drafting-skills) read the accumulated signals and propose targeted edits to the underlying skills and templates, so improvements compound instead of resetting each cycle.
 * **Scheduled cloud agents**: Recurring agents (for example, monthly and quarterly) run unattended, evaluate the docs, and open draft PRs. Now maintenance is a cadence rather than a fire drill.
-* **Evaluation audits**: A family of specialized checks—agent-friendliness (AFDocs), answer-engine optimization (AEO), SEO, cross-link coverage, and 404 detection—each emitting structured signals instead of one-off reports.
-* **Signal logs and telemetry**: Every run appends structured records to a shared log layer. Accumulated telemetry is what lets agents act on patterns ("this rule is violated repeatedly") rather than isolated events.
+* **Evaluation audits**: A family of specialized checks spanning agent-friendliness ([AFDocs](https://github.com/warpdotdev/docs/tree/main/.agents/skills/afdocs-audit)), answer-engine optimization ([AEO](https://github.com/warpdotdev/docs/tree/main/.agents/skills/aeo_crosslink_audit)), [SEO](https://github.com/warpdotdev/docs/tree/main/.agents/skills/docs-seo-audit), cross-link coverage, and [404 detection](https://github.com/warpdotdev/docs/tree/main/.agents/skills/weekly-404-monitor), each emitting structured signals instead of one-off reports.
+* **Signal logs and telemetry**: Every run appends structured records to a shared [log layer](https://github.com/warpdotdev/docs/tree/main/.agents/logs). Accumulated telemetry is what lets agents act on patterns ("this rule is violated repeatedly") rather than isolated events.
 * **Redirect generation**: High-confidence fixes, such as redirects for recurring 404s, are drafted automatically from audit data and proposed for review.
 * **Skill improvement**: The highest-leverage output. The loops fix pages _and_ improve the reusable skills and templates that generate and review every future page.
 
@@ -81,7 +81,7 @@ The really valuable part isn't any single audit—it's the architecture that coo
 
 ### Human in the loop
 
-Automation proposes; humans decide. Every outer-loop agent opens its work as a **draft PR that requires human review—nothing auto-merges**. Agents handle detection, pattern analysis, and drafting; humans approve the architectural and editorial decisions that define what "good" means. That keeps the factory fast and self-improving without ceding judgment.
+Automation proposes; humans decide. Every outer-loop agent opens its work as a **draft PR that requires human review; nothing auto-merges**. Agents handle detection, pattern analysis, and drafting; humans approve the architectural and editorial decisions that define what "good" means. That keeps the factory fast and self-improving without ceding judgment.
 
 ### Outcomes
 
@@ -98,4 +98,4 @@ Automation proposes; humans decide. Every outer-loop agent opens its work as a *
 
 ### Related projects
 
-* [Documentation Operating System](/2026/05/02/documentation-operating-system-warp.html) — the architecture, workflows, templates, and validation that the Software Factory keeps current.
+* [Documentation Operating System](/2026/05/02/documentation-operating-system-warp.html): the architecture, workflows, templates, and validation that the Software Factory keeps current.

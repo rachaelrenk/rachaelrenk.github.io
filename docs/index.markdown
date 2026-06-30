@@ -25,19 +25,28 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="portfolio-card">
    <div class="card-header">
       <h3><a href="/2026/05/02/documentation-operating-system-warp.html">Documentation Operating System</a></h3>
-      <span class="card-tag">System</span>
+      <span class="card-tag">Architecture</span>
     </div>
   <p class="card-company">Warp</p>
-  <p class="card-description">Built a docs-as-code content system that enables humans and AI agents to produce consistent, high-quality documentation through shared workflows, templates, and automated validation.</p>
+  <p class="card-description">Built a docs-as-code system that lets humans and AI agents produce consistent, high-quality docs at scale.</p>
   </div>
 
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="/2026/06/29/documentation-software-factory-warp.html">Documentation Software Factory</a></h3>
-      <span class="card-tag">System</span>
+      <span class="card-tag">Automation</span>
     </div>
     <p class="card-company">Warp</p>
-    <p class="card-description">Automated the documentation feedback cycle with scheduled AI agents, recurring audits, telemetry, and human reviewâ€”so docs quality and discoverability improve continuously.</p>
+    <p class="card-description">Automated the docs feedback loop with scheduled agents, recurring audits, and human review so quality keeps improving.</p>
+  </div>
+
+  <div class="portfolio-card">
+    <div class="card-header">
+      <h3><a href="/2026/06/29/agent-friendly-docs-warp.html">Designing Agent-Friendly Documentation</a></h3>
+      <span class="card-tag">Strategy</span>
+    </div>
+    <p class="card-company">Warp</p>
+    <p class="card-description">Adapted a modern docs system for AI-native workflows, designing for retrieval, reasoning, and reliable agent task completion.</p>
   </div>
 </div>
 
@@ -49,25 +58,25 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2026/01/28/environments-warp.html">Environments</a></h3>
-      <span class="card-tag">Canonical Guide</span>
+      <span class="card-tag">Conceptual</span>
     </div>
     <p class="card-company">Warp</p>
-    <p class="card-description">Helped teams adopt environment configuration through clear conceptual documentation that reduced setup friction.</p>
+    <p class="card-description">Helped teams adopt environment configuration with clear conceptual docs that reduced setup friction.</p>
   </div>
 
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2025/10/03/release-notes.html">GHES Release Notes</a></h3>
-      <span class="card-tag">Release Operations</span>
+      <span class="card-tag">Release Notes</span>
     </div>
     <p class="card-company">GitHub</p>
-    <p class="card-description">Streamlined release documentation process and raised quality standards for major GHES releases.</p>
+    <p class="card-description">Streamlined the release notes process and raised quality standards for major GHES releases.</p>
   </div>
 
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2025/10/06/enterprise-onboarding-guide.html">Enterprise Onboarding Guide</a></h3>
-      <span class="card-tag">Documentation Set</span>
+      <span class="card-tag">Guide</span>
     </div>
     <p class="card-company">GitHub</p>
     <p class="card-description">Led creation of comprehensive guide that reduced support load and accelerated self-serve setup.</p>
@@ -79,7 +88,7 @@ Things are under construction around here, so check back often for updates. âœŒï
       <span class="card-tag">Procedural</span>
     </div>
     <p class="card-company">GitHub</p>
-    <p class="card-description">Improved task success by clarifying complex, conditional setup process for organizational structure.</p>
+    <p class="card-description">Improved task success by clarifying a complex, conditional organization setup process.</p>
   </div>
 
   <div class="portfolio-card">
@@ -109,7 +118,7 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2025/10/02/technical-proposal.html">Ohio Tax Modernization Proposal</a></h3>
-      <span class="card-tag">Technical Proposal</span>
+      <span class="card-tag">Proposal</span>
     </div>
     <p class="card-company">Fast Enterprises</p>
     <p class="card-description">Led development of winning $50M+ proposal to modernize Ohio's personal income tax system.</p>
@@ -118,7 +127,7 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2025/10/01/ux-article.html">Plain Language for UX Writing</a></h3>
-      <span class="card-tag">Thought Leadership</span>
+      <span class="card-tag">Article</span>
     </div>
     <p class="card-company">UX Collective</p>
     <p class="card-description">Advocated for plain language as a core UX principle through featured Medium article.</p>
@@ -127,7 +136,7 @@ Things are under construction around here, so check back often for updates. âœŒï
   <div class="portfolio-card">
     <div class="card-header">
       <h3><a href="2025/09/30/internal-process.html">Plurality Process Documentation</a></h3>
-      <span class="card-tag">Process Documentation</span>
+      <span class="card-tag">Process Guide</span>
     </div>
     <p class="card-company">Deloitte</p>
     <p class="card-description">Created first repeatable process for publication variants, reducing errors and onboarding time.</p>

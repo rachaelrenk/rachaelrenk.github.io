@@ -6,7 +6,7 @@ date: 2026-05-02
 
 `👥 Internal teams + AI agents` `🎯 Scalable, consistent docs` `📅 2026`
 
-**Designed and implemented a documentation operating system that enables humans and AI agents to create, validate, and continuously improve high-quality docs through shared workflows, reusable architecture, and automated quality systems.**
+Designed and implemented a documentation operating system that enables humans and AI agents to create, validate, and continuously improve high-quality docs through shared workflows, reusable architecture, and automated quality systems.
 
 ### Problem
 Documentation quality depended on individual writers. Engineering moved faster than docs, and contributors lacked shared workflows, and AI-generated content was inconsistent. Work bottle-necked at manual review, a process that didn't scale with team velocity.
@@ -52,30 +52,30 @@ At a high level, the system combines:
 
 These components work together as a single pipeline: content is created using templates and workflows, validated automatically, and continuously kept in sync as the product evolves.
 
-The result is a documentation system that scales with the product—reducing manual review, improving consistency, and enabling both humans and AI agents to contribute effectively.
+The result is a documentation system that scales with the product, reducing manual review, improving consistency, and enabling both humans and AI agents to contribute effectively.
 
 #### System architecture
 
 <figure>
   <img src="https://raw.githubusercontent.com/rachaelrenk/rachaelrenk.github.io/refs/heads/portfolio_1/docs/assets/images/content-system-diagram.png" alt="Warp Documentation System Diagram" width="800"/>
-  <figcaption>_High-level architecture of Warp's Documentation Operating System diagram showing the components and how they interact._</figcaption>
+  <figcaption><em>High-level architecture of Warp's Documentation Operating System diagram showing the components and how they interact.</em></figcaption>
 </figure>
 
 #### System components
 
-* **Drafting workflow**: A shared, repeatable process that guides every documentation update, including identifying the right content type, drafting, validating, and preparing changes for review.
+* **Drafting workflow**: A shared, repeatable [process](https://github.com/warpdotdev/docs/tree/main/.agents/skills/draft_docs) that guides every documentation update, including identifying the right content type, drafting, validating, and preparing changes for review.
 
-* **Templates (content types)**: Structured Markdown templates for conceptual, procedural, quickstart, guides, and reference content. Each template embeds guidance so authors start with the right structure instead of a blank page.
+* **Templates (content types)**: Structured Markdown [templates](https://github.com/warpdotdev/docs/tree/main/.agents/templates) for conceptual, procedural, quickstart, guides, and reference content. Each template embeds guidance so authors start with the right structure instead of a blank page.
 
-* **Validation**: Automated checks that enforce formatting, terminology, and UI accuracy before content is merged, reducing reliance on manual review.
+* **Validation**: [Automated checks](https://github.com/warpdotdev/docs/tree/main/.agents/skills/style_lint) that enforce formatting, terminology, and UI accuracy before content is merged, reducing reliance on manual review.
 
-* **Sources of truth**:A centralized style guide and terminology glossary that define how documentation should be written, formatted, and named across the system.
+* **Sources of truth**: A centralized [style guide](https://github.com/warpdotdev/docs/blob/main/.agents/rules/oz-style-guidelines.md) and [terminology glossary](https://github.com/warpdotdev/docs/blob/main/.agents/references/terminology.md) that define how documentation should be written, formatted, and named across the system.
 
-* **Terminology sync**: A background process that keeps the glossary aligned with an upstream source, ensuring consistent product language as the platform evolves.
+* **Terminology sync**: A background [process](https://github.com/warpdotdev/docs/tree/main/.agents/skills/sync_terminology) that keeps the glossary aligned with an upstream source, ensuring consistent product language as the platform evolves.
 
 * **Published documentation**: The final output of the system: consistent, structured, and continuously maintained documentation that scales with both the product and the team.
 
-📸 View components live in [Warp's open-source docs repo](https://github.com/warpdotdev/docs/tree/main/.warp).
+📸 Browse the full system in [Warp's open-source docs repo](https://github.com/warpdotdev/docs/tree/main/.agents).
 
 ### Outcomes
 
@@ -103,4 +103,4 @@ The result is a documentation system that scales with the product—reducing man
 
 ### Related projects
 
-* [Documentation Software Factory](/2026/06/29/documentation-software-factory-warp.html) — how this operating system stays current through automated, continuously improving outer loops.
+* [Documentation Software Factory](/2026/06/29/documentation-software-factory-warp.html): how this operating system stays current through automated, continuously improving outer loops.

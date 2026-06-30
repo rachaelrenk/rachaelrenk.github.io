@@ -58,7 +58,7 @@ These two conceptual topics helped enterprise administrators confidently navigat
 
 <p><strong>Context:</strong></p>
 
-<p>These topics were part of the broader <a href="/2025/10/06/enterprise-onboarding-guide.html">GitHub Enterprise Onboarding Guide</a> initiative, aimed at improving customer self-service and reducing reliance on support. Each article addressed a complex moment of decision-making—initiating a trial or ending one—requiring a balance of technical accuracy, plain language, and user empathy to help administrators understand considerations and outcomes.</p>
+<p>These topics were part of the broader <a href="/2025/10/06/enterprise-onboarding-guide.html">GitHub Enterprise Onboarding Guide</a> initiative, aimed at improving customer self-service and reducing reliance on support. Each article addressed a complex moment of decision-making (initiating a trial or ending one), requiring a balance of technical accuracy, plain language, and user empathy to help administrators understand considerations and outcomes.</p>
 
 <p><strong>Activities:</strong></p>
 

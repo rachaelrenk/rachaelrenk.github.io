@@ -47,7 +47,7 @@ This documentation provided the first clear, repeatable process for handling plu
 
 <p><strong>Context:</strong></p>
 
-<p>This procedural guide documented a new workflow for creating singular and plural versions of publications within Deloitte's component content management system (CCMS). The process required duplicating topics, variables, and publications while maintaining correct conditioning and tagging in the repository—steps that had not been previously documented, leading to inconsistent approaches and errors.</p>
+<p>This procedural guide documented a new workflow for creating singular and plural versions of publications within Deloitte's component content management system (CCMS). The process required duplicating topics, variables, and publications while maintaining correct conditioning and tagging in the repository, steps that had not been previously documented, leading to inconsistent approaches and errors.</p>
 
 <p><strong>Activities:</strong></p>
 

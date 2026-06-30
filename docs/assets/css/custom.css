@@ -147,6 +147,20 @@ details[open] summary {
   font-size: 1.2rem;
 }
 
+/* Vertical orientation (conceptual stack) */
+.flow-diagram--vertical {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.flow-diagram--vertical .flow-step {
+  flex: 0 0 auto;
+}
+
+.flow-diagram--vertical .flow-arrow {
+  transform: none;
+}
+
 @media (max-width: 768px) {
   .flow-diagram {
     flex-direction: column;
@@ -174,7 +188,6 @@ details[open] summary {
   transition: all 0.2s ease;
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 
 .portfolio-card:hover {

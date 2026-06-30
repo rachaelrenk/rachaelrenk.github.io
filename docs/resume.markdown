@@ -7,7 +7,7 @@ order: 1
 
 ## Rachael Renk - Resume
 
-**Technical Writer, Content Strategist, User Advocate**
+**Documentation Engineer, Technical Writer, Content Strategist**
 
 📍 _Boise, ID (Remote)_
 
