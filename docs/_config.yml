@@ -26,6 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rachaelrenk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: rachaelrenk
+linkedin_username: rachaelrenk
+
+# PostHog analytics
+# This is the public, write-only project token (safe to commit / use in public apps).
+# Find it in PostHog: Settings > Project > Project token. Leave blank to disable.
+# Note: analytics only loads on production builds (JEKYLL_ENV=production).
+posthog_api_key: "phc_4n0veeNtXekM9cDi9TyZef6nEuNKxPzcqoJFhdekD9v"
+# Region host: US cloud = https://us.i.posthog.com, EU cloud = https://eu.i.posthog.com
+posthog_api_host: "https://us.i.posthog.com"
 
 # Build settings
 theme: minima
