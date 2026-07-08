@@ -68,7 +68,18 @@ For a more traditional resume experience, please visit my [LinkedIn profile](htt
     <span class="skill-badge">AI</span>
   </div>
   
-  <p class="job-summary">First technical copywriter at Warp, embedded in the Growth team's DevEx pod to drive developer enablement, adoption, and enterprise readiness through documentation and technical content.</p>
+  <p class="job-summary">First technical copywriter at Warp, embedded in the Growth team's DevEx pod. Drive developer enablement, adoption, and enterprise readiness through documentation and technical content for a fast-moving AI platform.</p>
+
+  <details>
+    <summary><strong>Activities & Impact</strong></summary>
+    <ul>
+      <li>Built the docs-as-code system—templates, workflows, and automated validation—that scales consistent, high-quality documentation across a rapidly evolving AI platform</li>
+      <li>Automated the documentation feedback loop with scheduled agents, recurring audits, and human review so quality keeps improving</li>
+      <li>Designed the docs system for AI-native workflows, specifically considering retrieval, reasoning, and reliable agent task completion</li>
+      <li>Authored conceptual and developer documentation that helps teams adopt complex features with less friction</li>
+    </ul>
+    <p><strong>Tools:</strong> Git, GitHub, CI/CD, Markdown, YAML, Liquid, AI agents & AI-assisted tools</p>
+  </details>
 
   <div class="job-highlight">
     <strong>📄 Featured Work</strong>
