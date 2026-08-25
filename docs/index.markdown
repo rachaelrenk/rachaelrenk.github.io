@@ -6,11 +6,11 @@ order: 1
 
 **Hi, I'm Rachael.** Welcome to my website.
 
-I design systems that turn complexity into clarity and help people do meaningful work. I believe great documentation builds trust, saves time, and it might even spark delight.
+I'm a technical writer, systems builder, and problem solver. I take highly technical subject matter and create clarity that helps people do meaningful work. I believe great documentation builds trust, saves time, and it might even spark delight.
 
 Since 2014, I've created accessible docs for hardware, software, and SaaS products; written winning technical and business proposals for government software modernizations; created beginner-friendly software training; and taught college courses in technical communication. 
 
-Currently, I build documentation infrastructure that helps developers adopt complex software. My work combines docs-as-code, information architecture, documentation engineering, and AI workflows to create scalable knowledge systems that evolve alongside engineering teams.
+Currently, I create documentation and the underlying infrastructure that helps developers adopt complex software with confidence. My work combines docs-as-code, information architecture, documentation engineering, and AI workflows to create scalable knowledge systems that evolve alongside engineering teams.
 
 This site showcases documentation systems, developer documentation, and selected technical communication projects, along with recommendations from colleagues, a peek at my origin story, and an experimental resume.
 
