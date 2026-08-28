@@ -16,7 +16,7 @@ This site showcases selected technical writing, developer documentation, documen
 
 Things are under construction around here, so check back often for updates. ✌️
 
----
+<hr>
 
 ## Technical Writing
 
