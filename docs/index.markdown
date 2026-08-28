@@ -1,9 +1,8 @@
 ---
-
 layout: home
-title:
+title: 
 order: 1
---------
+---
 
 **Hi, I'm Rachael.** Welcome to my website.
 
