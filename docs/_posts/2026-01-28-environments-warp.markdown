@@ -1,47 +1,47 @@
 ---
 layout: post
-title: "Environments"
+title: "Cloud Agent Environments"
 date: 2026-01-28
 ---
 
-`👥 Developers` `🎯 Streamlined adoption` `📅 2025`
+`👥 Developers` `🎯 Technical understanding` `📅 2026`
 
-**Helped developers use environments for agentic development with Warp through clear conceptual documentation that reduced setup friction and reliance on support.**
+**Explained the mental model behind Warp's cloud agent environments, helping developers understand when they need one, what it contains, and how it fits into an agent run.**
 
 ### Impact
 
-This conceptual, source-of-truth guide helps users understand when and how to use Warp environments for reproducible automated agent runs. By clearly distinguishing environments from related concepts like hosts, profiles, and MCP servers, the article reduced early-adoption confusion and established reusable patterns for Docker-based workflows. The guide serves as the authoritative reference for environment configuration and troubleshooting.
+This conceptual, source-of-truth guide explains how environments give cloud agents a repeatable container, repositories, and setup for every run. The article distinguishes environments from related concepts such as hosts, agent profiles, rules, MCP servers, and per-run context, giving developers a clearer mental model for configuring cloud agent workflows.
 
-### At a glance
+### At a Glance
 
 <div class="work-sample-grid">
   <div class="fact-card">
     <strong>Audience</strong>
-    <p>DevOps engineers and developers using the Warp platform</p>
+    <p>Developers and DevOps engineers using Warp's cloud agents</p>
   </div>
-  
+
   <div class="fact-card">
     <strong>Goal</strong>
-    <p>Clarify when/how to use environments; reduce setup failures; establish configuration patterns</p>
+    <p>Explain what environments are, when to use them, and how they fit into cloud agent runs</p>
   </div>
-  
+
   <div class="fact-card">
     <strong>Collaboration</strong>
-    <p>Engineering, Growth</p>
+    <p>Product, Engineering</p>
   </div>
-  
+
   <div class="fact-card">
     <strong>Tools</strong>
-    <p>GitBook, Git, Markdown, Warp</p>
+    <p>Git, Markdown, Warp</p>
   </div>
 </div>
 
-### View the work
+### View the Work
 
 <div class="artifact-links">
   🔗 <a href="https://docs.warp.dev/platform/environments" target="_blank">View live documentation</a>
-  
-  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/Environments_Warp.pdf">View PDF</a>
+
+  📷 <a href="https://github.com/rachaelrenk/rachaelrenk.github.io/blob/portfolio_1/docs/assets/pdf/Environments_Warp.pdf" target="_blank">View PDF</a>
 </div>
 
 <details>
@@ -49,19 +49,17 @@ This conceptual, source-of-truth guide helps users understand when and how to us
 
 <p><strong>Context:</strong></p>
 <p>
-Environments in Warp ensure that ambient agents run with consistent Docker-based toolchains across triggers (Slack, Linear, GitHub, API). Without clear guidance, users struggled to understand when environments were needed versus local runs, how they differed from related platform concepts, and how to troubleshoot configuration issues.
+Cloud agent environments define the repeatable runtime configuration for a Warp cloud agent run. The challenge was to explain a new and fairly abstract platform concept without requiring readers to understand the underlying architecture first. The guide needed to answer three questions clearly: what an environment is, what belongs inside one, and how it relates to the other components of a cloud agent run.
 </p>
+
 <p><strong>Activities:</strong></p>
-<p>
 <ul>
-<li>Collaborated with product team to validate technical accuracy and align explanations with product vision</li>
-<li>Developed clear information architecture distinguishing environments from: execution hosts, agent profiles, rules, MCP servers, and per-run context</li>
-<li>Created decision framework ("When to use environments") to help readers self-assess their needs</li>
-<li>Wrote step-by-step instructions for both guided setup and CLI-based environment creation</li>
-<li>Designed troubleshooting section addressing common setup failures (repo access, missing secrets, non-repeatable setup commands)</li>
-<li>Structured complex runtime flow explanation to show what happens during automated runs</li>
-<li>Included concrete code examples for CLI commands and Docker setup patterns</li>
+  <li>Developed the conceptual information architecture around the reader's mental model rather than the product's underlying implementation</li>
+  <li>Defined clear distinctions between environments, hosts, agent profiles, rules, MCP servers, and per-run context</li>
+  <li>Created a decision framework to help readers determine when an environment is appropriate and when a local run is sufficient</li>
+  <li>Explained the runtime flow of a cloud agent run and how the environment contributes to it</li>
+  <li>Validated technical concepts and examples through hands-on investigation and collaboration with product and engineering</li>
+  <li>Separated conceptual explanation from procedural configuration content so each page could serve a clearer purpose</li>
 </ul>
-</p>
 
 </details>
